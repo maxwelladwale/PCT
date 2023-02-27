@@ -33,7 +33,9 @@
 /*------------------------------------------------------------------*/
 /*	01) GLAX BASE
 /*------------------------------------------------------------------*/
-
+.wpcf7-textarea{
+	background-color: white !important;
+}
 html {
 	overflow-x: hidden;
 	padding: 0px;
@@ -41,8 +43,8 @@ html {
 }
 body{
 	font-family: "Open Sans";
-	font-size: 14px;
-	line-height: 1.5;
+	font-size: 16px;
+	line-height: 2.0;
 	font-weight: 400;
 	word-wrap: break-word;
 	letter-spacing: 0.5px;
@@ -55,6 +57,73 @@ svg{
 img.svg{
 	width: 15px;
 	height: 15px;
+}
+.all-leader-cont{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+@media only screen and (max-width: 767px) {
+	.all-leader-cont{
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+		margin-bottom: 10px;
+	}
+}
+.single-leader-cont > .main_definitions h3{
+	margin: 0px;
+    padding: 0px;
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    font-weight: 500;
+    color: #23387E;
+	text-transform: uppercase;
+	text-align: center;
+}
+.single-leader-cont > .main_definitions h4{
+	margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    line-height: 1.1;
+    letter-spacing: 0px;
+    color: #666;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.single-leader-cont > .main_definitions a{
+	display: flex;
+    align-items: center;
+    column-gap: 0.5rem;
+    margin: auto 0 1rem;
+    text-decoration: none;
+    color: inherit;
+}
+.single-leader-cont > .main_definitions{
+	padding: 50px 30px 0px 30px;
+	box-shadow: 0 0 10px rgba(54, 50, 50, 0.247);
+	margin-top: -60px;
+	flex: 1;
+}
+.single-leader-cont>img{
+	width: 200px;
+	margin-bottom: 5px;
+}
+.single-leader-cont{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 30%;
+}
+@media only screen and (max-width: 767px){
+	.single-leader-cont{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 100%;
+	}
 }
 .glax_tm_sticky_section{
 	position: -webkit-sticky;
@@ -238,7 +307,7 @@ img.svg{
 	text-decoration: none;
 	color: #666;
 	font-size: 14px;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	text-transform: uppercase;
 	font-weight: 500;
 	position: relative;
@@ -332,7 +401,7 @@ img.svg{
 	right: 0px;
 	height: 70px;
 	text-decoration: none;
-	color: #edc0c6;
+	color: white;
 	background-color: #23387E;
 	
 	-webkit-transition: all .3s ease;
@@ -408,7 +477,7 @@ img.svg{
 	margin-bottom: 40px;
 }
 .glax_tm_hero_header_wrap .swiper_content .texts_wrap h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 60px;
 	text-transform: capitalize;
 	line-height: 1;
@@ -449,7 +518,7 @@ img.svg{
 	color: #fff;
 	font-size: 24px;
 	font-weight: 400;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .my_swiper_pagination .total{
 	font-size: 14px;
@@ -491,9 +560,9 @@ img.svg{
 }
 .glax_tm_swiper_content{
 	position: absolute;
-	top: 50%;
+	top: 63% !important;
 	transform: translateY(-50%);
-	z-index: 5;
+	z-index: 20;
 	width: 100%;
 }
 
@@ -534,7 +603,7 @@ img.svg{
 	color: #fff;
 	text-transform: uppercase;
 	font-weight: 500;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	padding: 35px 5px 35px 0px;
 	display: inline-block;
 	position: relative;
@@ -553,7 +622,7 @@ img.svg{
 	text-transform: uppercase;
 	font-weight: 500;
 	color: #fff;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	border: 1px solid #a3a8ad;
 	border-radius: 2px;
 	padding: 16px 30px 14px 30px;
@@ -577,7 +646,7 @@ img.svg{
 .glax_tm_header_wrap .logo_wrap{
 	position: absolute;
 	left: 0px;
-	width: 220px;
+	width: 247px;
 	top: -90px;
 	bottom: 0px;
 	background-color: #23387E;
@@ -601,8 +670,8 @@ img.svg{
 .glax_tm_header_wrap .logo_wrap:after{
 	position: absolute;
     content: "";
-    width: 200px;
-	height: 15px;
+    width: 225px;
+	height: 48px;
 	background-color: #23387E;
 	bottom: -33px;
 	transform: rotate(-10deg);
@@ -610,8 +679,8 @@ img.svg{
 .glax_tm_header_wrap .logo_wrap .left{
 	position: absolute;
 	z-index: 11;
-	width: 20px;
-	height: 20px;
+	width: 34px;
+	height: 26px;
 	background-color: #23387E;
 	left: 0px;
 	bottom: -51px;
@@ -620,8 +689,8 @@ img.svg{
 .glax_tm_header_wrap .logo_wrap .right{
 	position: absolute;
 	z-index: 11;
-	width: 22px;
-	height: 20px;
+	width: 161px;
+	height: 41px;
 	background-color: #23387E;
 	right: 0px;
 	bottom: -15px;
@@ -630,7 +699,7 @@ img.svg{
 .glax_tm_header_wrap .logo_wrap .extra_first{
 	position: absolute;
 	z-index: 11;
-	width: 22px;
+	width: 19px;
 	height: 20px;
 	background-color: #23387E;
 	right: 0px;
@@ -640,8 +709,8 @@ img.svg{
 .glax_tm_header_wrap .logo_wrap .extra_second{
 	position: absolute;
 	z-index: 11;
-	width: 22px;
-	height: 20px;
+	width: 84px;
+	height: 40px;
 	background-color: #23387E;
 	right: 3px;
 	bottom: -16px;
@@ -699,7 +768,7 @@ img.svg{
 	color: #ccc;
 	text-transform: capitalize;
 	display: block;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -1065,7 +1134,7 @@ img.svg{
     padding: 10px 20px !important;
     margin-bottom: 20px;
     color: #999;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_dropdown_wrap textarea:focus{outline: none;}
 .glax_tm_dropdown_wrap .button{
@@ -1088,7 +1157,7 @@ img.svg{
     border-radius: 2px;
 	text-decoration: none;
 	display: inline-block;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_dropdown_wrap .call_wrap{
 	width: 100%;
@@ -1121,7 +1190,7 @@ img.svg{
     letter-spacing: 0.5px;
     font-weight: 300;
     color: #eee;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_dropdown_wrap .working_hours_wrap_short{
 	width: 100%;
@@ -1131,7 +1200,7 @@ img.svg{
 	padding: 40px 0px 40px 0px;
 }
 .glax_tm_dropdown_wrap .working_hours_wrap_short h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 20px;
 	color: #eee;
 	line-height: 1;
@@ -1181,6 +1250,7 @@ img.svg{
 /*------------------------------------------------------------------*/
 
 .glax_tm_widget_wrap{
+	overflow-y: scroll;
 	width: 400px;
 	top: 0px;
 	bottom: 0px;
@@ -1233,7 +1303,7 @@ img.svg{
 	right: 0px;
 	height: 70px;
 	text-decoration: none;
-	color: #edc0c6;
+	color: white;
 	background-color: #23387E;
 	
 	-webkit-transition: all .3s ease;
@@ -1368,7 +1438,7 @@ img.svg{
     padding: 10px 20px !important;
     margin-bottom: 20px;
     color: #999;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_widget_wrap .widget_dropdown_wrap textarea:focus{outline: none;}
 .glax_tm_widget_wrap .widget_dropdown_wrap .button{
@@ -1391,7 +1461,7 @@ img.svg{
     border-radius: 2px;
 	text-decoration: none;
 	display: inline-block;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_widget_wrap .widget_dropdown_wrap .call_wrap{
 	width: 100%;
@@ -1428,7 +1498,7 @@ img.svg{
     letter-spacing: 0.5px;
     font-weight: 300;
     color: #eee;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_widget_wrap .widget_dropdown_wrap .working_hours_wrap_short{
 	width: 100%;
@@ -1437,7 +1507,7 @@ img.svg{
 	float: left;
 }
 .glax_tm_widget_wrap .widget_dropdown_wrap .working_hours_wrap_short h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 20px;
 	color: #eee;
 	line-height: 1;
@@ -1537,7 +1607,7 @@ img.svg{
     letter-spacing: 0px;
     font-weight: 300;
     text-transform: capitalize;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_introduce_wrap .inner_wrap .main_info_wrap .title{
 	margin: 0px 0px 37px 0px;
@@ -1580,14 +1650,14 @@ img.svg{
     margin-bottom: 10px;
     color: #fff;
     line-height: 1.2;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_introduce_wrap .experience_box .bottom{
 	display: flex;
 	align-items: center;
 }
 .glax_tm_introduce_wrap .experience_box .bottom .number span{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 72px;
 	color: #fff;
 	letter-spacing: -0.25px;
@@ -1597,7 +1667,7 @@ img.svg{
 .glax_tm_introduce_wrap .experience_box .bottom .definition{
 	font-family: "Montserrat";
 	font-size: 10px;
-	color: #23387E;
+	color: white;
 	text-transform: uppercase;
 	padding-left: 4px;
 	font-weight: 500;
@@ -1734,10 +1804,19 @@ img.svg{
 	        transition: all .4s ease;
 }
 .glax_tm_home_service_list ul li .inner_list:hover:after{height: 100%;}
-.glax_tm_home_service_list ul li .inner_list .icon_wrap{margin-bottom: 28px;}
+.glax_tm_home_service_list ul li .inner_list .icon_wrap{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 28px;
+	border: #45A2DF solid 2px;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
 .glax_tm_home_service_list ul li .inner_list .icon_wrap .svg{
-	width: 60px;
-	height: 60px;
+	width: 50px;
+	height:50px;
 	color: #45a2df;
 }
 .glax_tm_home_service_list ul li .inner_list .title_holder h3{
@@ -1761,7 +1840,7 @@ img.svg{
 	text-decoration: none;
 	font-size: 18px;
     line-height: 24px;
-    font-family: 'Rubik';
+    font-family: 'Open Sans';
     color: #041230;
     display: inline-block;
 	position: relative;
@@ -1835,11 +1914,12 @@ img.svg{
 	width: 50%;
 	height: auto;
 	position: relative;
-	padding: 144px 20px 150px 0px;
+	padding: 144px 20px 150px 20px;
+	background-color: #081225;
 }
 .glax_tm_rating_wrap .inner .leftbox .title{margin-bottom: 25px;}
 .glax_tm_rating_wrap .inner .leftbox .title h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 24px;
 	color: #eee;
 	line-height: 1.3;
@@ -1847,7 +1927,7 @@ img.svg{
 }
 .glax_tm_rating_wrap .inner .leftbox .text{margin-bottom: 35px;}
 .glax_tm_rating_wrap .inner .leftbox .text p{
-	color: #ccc;
+	color: white;
 	line-height: 1.7;
 }
 .glax_tm_project_video{
@@ -1883,7 +1963,7 @@ img.svg{
 .glax_tm_project_video .project_time{
 	text-decoration: none;
 	font-size: 18px;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	color: #45a2df;
 	position: relative;
 	top: 2px;
@@ -1956,7 +2036,7 @@ img.svg{
 .glax_tm_rating_wrap .inner .star{margin-bottom: 15px;}
 .glax_tm_rating_wrap .inner .number{margin-bottom: 6px;}
 .glax_tm_rating_wrap .inner .number span{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 24px;
 	color: #fff;
 	font-weight: 500;
@@ -2028,7 +2108,7 @@ img.svg{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-	background-image: url(..//img/portfolio/10.jpg);
+	background-image: url(../img/contact/1.webp);
 }
 
 /*------------------------------------------------------------------*/ 
@@ -2057,9 +2137,9 @@ img.svg{
 	flex-direction: row;
 }
 .glax_tm_twice_box_wrap .inner_box .leftbox{
-	width: 320px;
+	/* width: 320px;
 	min-width: 320px;
-	margin-right: 10%;
+	margin-right: 10%; */
 }
 .glax_tm_twice_box_wrap .inner_box .leftbox .title_holder h3{
 	font-size: 36px;
@@ -2069,7 +2149,7 @@ img.svg{
     left: -2px;
     margin-bottom: 35px;
     font-weight: 500;
-	color: #041230;
+	color: #23387E;
 }
 .glax_tm_twice_box_wrap .inner_box .leftbox .title_holder h3:before{
 	position: absolute;
@@ -2157,7 +2237,7 @@ img.svg{
 }
 .glax_tm_principles_wrap .list_wrap ul li .inner .title{margin-bottom: 19px;}
 .glax_tm_principles_wrap .list_wrap ul li .inner .title h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 20px;
 	color: #041230;
 }
@@ -2174,7 +2254,7 @@ img.svg{
 	text-align: center;
 }
 .glax_tm_principles_wrap .list_wrap ul li .inner .number span{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 36px;
 	color: #fff;
 }
@@ -2305,7 +2385,7 @@ img.svg{
 	margin-right: 180px;
 }
 .glax_tm_experience_box .top p{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 18px;
 	color: #eeeeee;
 	font-weight: 400;
@@ -2316,7 +2396,7 @@ img.svg{
 	align-items: center;
 }
 .glax_tm_experience_box .bottom .number span{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 72px;
 	color: #eee;
 	letter-spacing: -0.25px;
@@ -2476,7 +2556,7 @@ img.svg{
 	z-index: 3;
 }
 .glax_tm_home_project_wrapper_all .rightbox ul li .inner .title_holder h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 24px;
 	color: #eee;
 	line-height: 1;
@@ -2669,7 +2749,7 @@ img.svg{
     letter-spacing: -2px;
     margin-bottom: 5px;
     font-weight: 300;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_home_blog_wrap .blog_list ul li .date_wrap h3 span:before{
 	position: absolute;
@@ -2689,7 +2769,7 @@ img.svg{
     line-height: 14px;
     font-weight: 400;
     text-transform: uppercase;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_home_blog_wrap .blog_list ul li .full_link{
 	position: absolute;
@@ -2773,7 +2853,7 @@ img.svg{
 	float: left;
 }
 
-.glax_tm_universal_parallax_wrap .overlay_image.footer{background-image: url(..//img/slider/5.jpg);}
+/* .glax_tm_universal_parallax_wrap .overlay_image.footer{background-image: url(..//img/slider/5.jpg);} */
 .glax_tm_universal_parallax_wrap .overlay_color.footer{background-color: rgba(8,18,37,0.9);}
 .glax_tm_universal_parallax_wrap .main_content.footer{padding: 38px 0px 0px 0px;}
 .glax_tm_subscribe_wrap,
@@ -2836,7 +2916,7 @@ img.svg{
 	border: none;
 	color: #fff;
 	margin-left: -5px;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 14px;
 	font-weight: 500;
 }
@@ -2924,10 +3004,10 @@ img.svg{
 .glax_tm_footer_wrap .glax_tm_list_wrap .footer_section_title{margin-bottom: 45px;}
 .glax_tm_footer_wrap .glax_tm_list_wrap .footer_section_title h3{
 	font-size: 20px;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	text-transform: capitalize;
 	font-weight: 400;
-	color: #eee;
+	color: white;
 	position: relative;
 }
 .glax_tm_footer_wrap .glax_tm_list_wrap .footer_section_title h3:before{
@@ -2942,7 +3022,7 @@ img.svg{
 .glax_tm_footer_wrap .glax_tm_list_wrap .definition p{
 	font-size: 14px;
 	line-height: 1.5;
-	color: #ccc;
+	color: white;
 	font-weight: 300;
 }
 .glax_tm_footer_wrap .inner_list ul{
@@ -2970,7 +3050,7 @@ img.svg{
 .glax_tm_footer_wrap .inner_list ul li .wrap .right{
 	font-size: 14px;
 	line-height: 1.5;
-	color: #ccc;
+	color: white;
 	font-weight: 300;
 }
 .glax_tm_footer_wrap .inner_list ul li .wrap .left{float: left;}
@@ -3015,7 +3095,7 @@ img.svg{
 .glax_tm_footer_wrap .links_wrap ul li a{
 	text-decoration: none;
 	text-transform: uppercase;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 16px;
 	color: #eee;
 	line-height: 1.5;
@@ -3123,7 +3203,7 @@ img.svg{
     padding: 94px 0px 13px 0px;
 }
 .glax_tm_main_title_holder .title_holder h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	margin: 0px;
     padding: 0px;
     font-size: 48px;
@@ -3169,7 +3249,7 @@ img.svg{
 	float: left;
 }
 .builify_tm_breadcrumbs ul li a{
-	font-size: 14px;
+	/* font-size: 14px; */
     color: #666;
     text-decoration: none;
     letter-spacing: 0px;
@@ -3265,7 +3345,7 @@ img.svg{
 .glax_tm_projects_wrap .all_projects span a{
 	text-decoration: none;
 	color: #fff;
-	font-family:"Rubik";
+	font-family:"Open Sans";
 }
 .glax_tm_projects_wrap .filter_list{
 	position: absolute;
@@ -3324,7 +3404,18 @@ img.svg{
 	float: left;
 	position: relative;
 	min-width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	text-decoration: none;
 }
+
+.glax_tm_projects_wrap .glax_tm_portfolio_list .inner .title_holder a{
+	text-decoration: none;
+	color:white;
+}
+
 .glax_tm_projects_wrap .glax_tm_portfolio_list .inner .image_wrap .image{
 	position: absolute;
 	top: 0px;
@@ -3401,12 +3492,11 @@ img.svg{
 }
 .glax_tm_projects_wrap .glax_tm_portfolio_list .inner .title_holder{
 	position: absolute;
-	bottom: 34px;
-	left: 50px;
+	left: 5%;
 	z-index: 3;
 }
 .glax_tm_projects_wrap .glax_tm_portfolio_list .inner .title_holder h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 24px;
 	color: #eee;
 	line-height: 1;
@@ -3417,6 +3507,7 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
+	color: white;
 }
 .glax_tm_view_more_wrap a{
 	text-decoration: none;
@@ -3661,7 +3752,7 @@ img.svg{
 .glax_tm_justified_content .leftpart .definition p.bold{
 	font-size: 18px;
 	font-weight: 400;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	line-height: 1.3;
 	color: #000000;
 }
@@ -3916,7 +4007,7 @@ img.svg{
 	text-decoration: none;
 	color: #fff;
 	display: block;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 500;
@@ -3951,7 +4042,7 @@ img.svg{
 	color: #eee;
 	font-size: 14px;
 	font-weight: 500;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	text-transform: uppercase;
 	padding: 30px;
 }
@@ -3975,7 +4066,7 @@ img.svg{
 .glax_tm_categories ul li:last-child{margin-bottom: 0px;}
 .glax_tm_categories ul li a{
 	text-decoration: none;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 16px;
 	color: #eee;
 	line-height: 2;
@@ -4038,8 +4129,8 @@ img.svg{
 	clear: both;
 	float: left;
 	position: relative;
-	background-color: #45a2df;
-	padding: 50px 40px;
+	background-color: #23387E;
+	padding: 10px 40px;
 }
 .glax_tm_request_estimate_wrap .definition .text{margin-bottom: 25px;}
 .glax_tm_request_estimate_wrap .definition .text p{
@@ -4047,8 +4138,8 @@ img.svg{
 	color: #fff;
 	line-height: 1.3;
 }
-.glax_tm_request_estimate_wrap .button{text-align: center;}
-.glax_tm_request_estimate_wrap .button a{
+.glax_tm_request_estimate_wrap .button, .inner .button{text-align: center;}
+.glax_tm_request_estimate_wrap .button a, .inner .button a{
 	text-decoration: none;
 	display: inline-block;
     background-color: #e9eff4;
@@ -4060,7 +4151,7 @@ img.svg{
     text-transform: uppercase;
     border-radius: 2px;
     font-weight: 500;
-    font-family: 'Rubik';
+    font-family: 'Open Sans';
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -4068,7 +4159,7 @@ img.svg{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.glax_tm_request_estimate_wrap .button a:hover{
+.glax_tm_request_estimate_wrap .button a:hover, .inner .button a:hover{
 	background-color: #181a2f;
 	color: #fff;
 }
@@ -4152,7 +4243,7 @@ img.svg{
     position: relative;
     line-height: 1.5;
     letter-spacing: 0.5px;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_brochures_wrap .title_holder span:before{
 	position: absolute;
@@ -4179,14 +4270,13 @@ img.svg{
 	clear: both;
 	float: left;
 	position: relative;
-	background-color: #111422;
+	background-color: #23387E;
 	padding: 18px 0px 16px 0px;
-	cursor: pointer;
 }
 .glax_tm_brochures_wrap ul li .inner .icon{
 	width: 48px;
 	height: 48px;
-	background-color: #242633;
+	background-color: #23387E;
 	position: absolute;
 	left: 5px;
 	top: 5px;
@@ -4212,7 +4302,6 @@ img.svg{
 	color: #ccc;
 	font-weight: 500;
 	padding-left: 75px;
-	padding-right: 35px;
 	display: block;
 	
 	-webkit-transition: all .3s ease;
@@ -4293,8 +4382,8 @@ img.svg{
 }
 .glax_tm_service_single_wrap .leftbox .service_features h3{
 	font-size: 24px;
-	color: #181a2f;
-	font-family: "Rubik";
+	color: #23387E;
+	font-family: "Open Sans";
 	margin-bottom: 30px;
 }
 .glax_tm_service_single_wrap .leftbox .service_features ul{
@@ -4339,7 +4428,7 @@ img.svg{
 .glax_tm_service_single_wrap .leftbox .accordion_wrap_all .title h3{
 	font-size: 24px;
 	color: #181a2f;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	margin-bottom: 30px;
 }
 .glax_tm_service_single_wrap .accordion_wrap{
@@ -4440,7 +4529,7 @@ img.svg{
 .glax_tm_short_contact .glax_tm_button_wrap a{
 	text-decoration: none;
     text-transform: uppercase;
-    font-family: "Rubik";
+    font-family: "Open Sans";
     font-size: 14px;
     color: #14141c;
     letter-spacing: .5px;
@@ -4460,7 +4549,7 @@ img.svg{
 	background-color: #45a2df;
 }
 .glax_tm_short_contact .text h3{
-	font-family: "Rubik", Sans-serif;
+	font-family: "Open Sans", Sans-serif;
     font-size: 24px;
     font-weight: 400;
     line-height: 1.5em;
@@ -4489,7 +4578,7 @@ img.svg{
 	float: left;
 }
 .glax_tm_other_services_wrap > h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 24px;
 	color: #181a2f;
 	margin-bottom: 34px;
@@ -4520,7 +4609,7 @@ img.svg{
 }
 .glax_tm_other_services_wrap .services_list_wrap ul li .title_holder{margin-bottom: 19px;}
 .glax_tm_other_services_wrap .services_list_wrap ul li .title_holder h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 22px;
 	color: #181a2f;
 }
@@ -4651,7 +4740,7 @@ img.svg{
     letter-spacing: -2px;
     margin-bottom: 5px;
     font-weight: 300;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_blog_wrap .blog_list_wrap ul li .inner .date_wrap h3 span:before{
 	position: absolute;
@@ -4671,7 +4760,7 @@ img.svg{
     line-height: 14px;
     font-weight: 400;
     text-transform: uppercase;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_blog_wrap .definitions_wrap{
 	width: 100%;
@@ -4815,7 +4904,7 @@ img.svg{
 	color: #777;
 	letter-spacing: -0.25px;
 	font-weight: 400;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_blog_single_wrap .commentbox .author_wrap{
 	width: 100%;
@@ -4839,7 +4928,7 @@ img.svg{
 	font-size: 18px;
 	letter-spacing: -0.25px;
 	color: #777;
-	font-family:"Rubik";
+	font-family:"Open Sans";
 	font-weight: 400;
 }
 .glax_tm_blog_single_wrap .commentbox .definition p span{
@@ -4889,7 +4978,7 @@ img.svg{
 	color: #777;
 	letter-spacing: -0.25px;
 	font-weight: 400;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_blog_single_wrap .glax_tm_contact_wrap{margin-bottom: 0px;}
 .glax_tm_blog_single_wrap .glax_tm_contact_wrap input{
@@ -4938,7 +5027,7 @@ img.svg{
 .glax_tm_about_wrap .about_service_list.client{margin-bottom: 70px;}
 .glax_tm_about_wrap .about_service_list h3{
 	color: #14141c;
-	font-family: "Rubik";
+	font-family: "Open Sans";
     font-size: 24px;
     letter-spacing: 0px;
 	margin-bottom: 17px;
@@ -5001,7 +5090,7 @@ img.svg{
 	padding: 0px;
 }
 .glax_tm_about_counter_wrap .glax_tm_counter_list li h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	color: #eee;
 	font-size: 48px !important;
 	font-weight: 400;
@@ -5057,7 +5146,7 @@ img.svg{
     letter-spacing: 0px;
     color: #14141c;
     margin-bottom: 23px;
-	font-family: "Rubik";
+	font-family: "Open Sans";
 }
 .glax_tm_about_counter_wrap .inner_counter .rightbox .text{
 	line-height: 1.7;
@@ -5289,7 +5378,7 @@ img.svg{
 	background-repeat: no-repeat;
 	background-position: center;
 }
-.glax_tm_main_contact_wrap .office_list ul li:nth-child(1) .image_wrap .image{background-image: url(..//img/contact/1.jpg);}
+.glax_tm_main_contact_wrap .office_list ul li:nth-child(1) .image_wrap .image{background-image: url(..//img/contact/1.webp);}
 .glax_tm_main_contact_wrap .office_list ul li:nth-child(2) .image_wrap .image{background-image: url(..//img/contact/2.jpg);}
 .glax_tm_main_contact_wrap .office_list ul li:nth-child(3) .image_wrap .image{background-image: url(..//img/contact/3.jpg);}
 .glax_tm_main_contact_wrap .office_list ul li .definitions_wrap{
@@ -5307,7 +5396,7 @@ img.svg{
 	background-color: #111422;
 }
 .glax_tm_main_contact_wrap .office_list ul li .definitions_wrap .office h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 22px;
 	color: #eeeeee;
 	font-weight: 400;
@@ -5362,7 +5451,7 @@ img.svg{
 }
 .glax_tm_main_contact_wrap .get_in_touch{margin-bottom: 30px;}
 .glax_tm_main_contact_wrap .get_in_touch h3{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-size: 24px;
 	color: #14141c;
 }
@@ -5415,7 +5504,7 @@ img.svg{
 	margin-left: 4px;
 }
 .glax_tm_contact_wrap .inner_wrap .row input{
-	width: 340px !important;
+	width: 100%;
 	height: 40px !important;
 	background-color: #f5f5f5;
 	border: 1px solid #e5e5e5;
@@ -5427,7 +5516,7 @@ img.svg{
 	border: 1px solid #e5e5e5;
 }
 .glax_tm_contact_wrap .inner_wrap .row textarea{
-	max-width: 600px;
+	max-width: 100%;
 	height: 220px !important;
 	background-color: #f5f5f5;
 	border: 1px solid #e5e5e5;
@@ -5450,7 +5539,7 @@ img.svg{
     text-transform: uppercase;
     border-radius: 2px;
     font-weight: 500;
-    font-family: 'Rubik';
+    font-family: 'Open Sans';
 	
     -webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
