@@ -86,7 +86,7 @@ get_header();
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/10/DSC4300.jpg" data-group="1" class="galleryItem 101">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4300.jpg" data-group="1" class="galleryItem 101">See Gallery</a>
 
                                             </div>
 
