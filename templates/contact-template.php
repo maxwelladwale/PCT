@@ -87,7 +87,7 @@ get_header();
 						<div class="inner_wrap">
 
 									<!-- Echo form shortcode-->
-								<?php echo do_shortcode( '[contact-form-7 id="200" title="Contact form main"]' ); ?>
+								<?php echo do_shortcode( '[contact-form-7 id="10" title="Contact form 1"]' ); ?>
 
 						
 								
