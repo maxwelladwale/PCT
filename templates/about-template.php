@@ -34,9 +34,9 @@
                                                         <h4 style="	color: #23387E;">Who We Are</h4>
                                                     </div>
                                                     <div class="description">
-                                                        <p>Industrial equipment services and fabrication from line design to end items</p>
-                                                        <p>Headquartered in eastern Washington State since 1991, we are a national leader in industrial equipment design, fabrication, installation, and maintenance</p>
-                                                        <p>We design and fabricate industrial lines for any market sector and produce custom components from the design phase to delivery</p>
+                                                        <p>A complete manufacturing solution for parts of any construction material  </p>
+                                                        <p>Headquartered in eastern Washington State since 1998, we are a national leader in advanced machining and fabrication </p>
+                                                        <p>From single item orders to a production run of several thousand, we design and fabricate precision parts for any market sector and produce custom components from the design phase to delivery </p>
                                                     </div>
                                                 </div>
                                                 <div class="rightbox">
@@ -45,28 +45,18 @@
                                                             <ul style="border-left: 2px solid #47A1DE; height: 100%;position: relative;">
                                                                 <li class="">
                                                                     <h5>Customer Centric</h5>
-                                                                    <p>Customers are at the center of everything we do. We stand behind our work and guarantee customer satisfaction</p>
+                                                                    <p>Customers are at the center of everything we do. We stand behind our work and guarantee customer satisfaction </p>
                                                                 </li>
 
                                                                 <li class="">
-                                                                    <h5>Comprehensive Services</h5>
-                                                                    <p>Our craftsmen have the wideranging experience to manage the entire lifecycle of your project from design to installation and maintenance</p>
+                                                                    <h5>Complete Manufacturing Solution </h5>
+                                                                    <p>Our craftsmen manufacture the highest quality end items made of any industrial material from design to product delivery </p>
                                                                 </li>
 
                                                                 <li class="">
-                                                                    <h5>Manufacturing Leader</h5>
-                                                                    <p>We manufacture the highest quality end items made of any industrial material</p>
-                                                                </li>
-
-                                                                <li class="">
-                                                                    <h5>Integration Experts</h5>
-                                                                    <p>Our fabricated integration systems bring machine components together and we leverage strategic partnerships to provide universal services</p>
-                                                                </li>
-
-                                                                <li class="">
-                                                                    <h5>Partners with Integrity</h5>
-                                                                    <p>Honest and truthful in what we say and do, we prioritize integrity above all else</p>
-                                                                </li>
+                                                                    <h5>Partners with Integrity </h5>
+                                                                    <p>Honest and truthful in what we say and do, we prioritize integrity above all else </p>
+                                                                </li>                                                                                                                             
 
                                                             </ul>
                                                         </div>
@@ -84,23 +74,23 @@
 								<div class="themesflat-row separator drank clearfix">                            
                                     <div class="span_1_of_6 separator-solid">
                                         <div class="flat-content-wrap pd26 h-one">
-                                            <div class="title">1991</div>
-                                            <p style="padding-bottom: 64px;">SMK founded in Pasco, Washington</p>
+                                            <div class="title">1998</div>
+                                            <p style="padding-bottom: 32px;">PCT founded in Spokane, Washington.</p>
                                         </div>
                                         <div class="flat-content-wrap pd26 h-two">
-                                            <div class="title">2005</div>
-                                            <p>SMK transitioned to an independently owned and operated sheet metal company</p>
+                                            <div class="title">2018</div>
+                                            <p>PCT purchased L&M Precision Fabrication, adding in-house powder coating and hardware insertion services </p>
                                         </div>
                                     </div>
                                     <div class="span_1_of_6 separator-solid">
                                         <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35" style="height:0px"></div>
                                         <div class="flat-content-wrap pd26 h-three">
-                                            <div class="title">2018</div>
-                                            <p>SMK purchased by private ownership, growing the company to new heights with additional service lines, industry expertise, and passion for customer satisfaction</p>
+                                            <div class="title">2006</div>
+                                            <p>PCT grew in size and scope by moving into a larger facility to add laser cutting, welding, CNC machining, and forming</p>
                                         </div>
                                         <div class="flat-content-wrap pd26 h-four">
-                                            <div class="title">2021</div>
-                                            <p>SMK acquired by a strategic investment group with proven success in expanding customer relations and driving operational performance</p>
+                                            <div class="title">2022</div>
+                                            <p>PCT acquired by a strategic investment group with proven success in expanding customer relations and driving operational performance</p>
                                         </div>
                                     </div>
                                 </div>
@@ -170,7 +160,7 @@
                                         <h3>Careers</h3>
                                     </div>
 									<div class="">
-										<p>SMK is hiring qualified craftsmen. We dedicate ourselves to providing superior service to our customers and a rewarding work environment for our employees.</p>
+										<p>PCT is hiring qualified craftsmen. We dedicate ourselves to providing superior service to our customers and a rewarding work environment for our employees.</p>
 									</div> 
 									<div class="button" style="margin-top: 20px;">
 										<a href="/contact-us" id="send_message">Apply Now</a>
