@@ -29,7 +29,7 @@ get_header();
 			<div class="container">
 
 			<p style="padding-bottom: 20px;">
-				SMK is committed to providing the highest level of customer service. Please complete the following form and click the “Send Message” button. We look forward to assisting you.
+			PCT is committed to providing the highest level of customer service. Please complete the following form and click the “Send Message” button. We look forward to assisting you.
 			</p>
 
 				<div class="glax_tm_main_contact_wrap">
@@ -40,6 +40,8 @@ get_header();
 									<div class="image_wrap">
 										<img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/370x220.jpg" alt="" />
 										<div class="image"></div>
+										<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/1.webp" alt="" />
+
 									</div>
 									<div class="definitions_wrap">
 										<div class="office">
@@ -76,7 +78,7 @@ get_header();
 					
 					<div class="contact_text">
 						<p>
-						We are a national leader in industrial equipment design, fabrication, installation, and maintenance. Our team designs and fabricates industrial lines for any market sector and produces custom components from the design phase to delivery. We also manufacture the highest quality end items made of any industrial material.
+						We are a national leader in parts manufacturing. Our team designs and fabricates precision parts for any market sector and produces custom components from the design phase to delivery. We manufacture the highest quality end items made of any industrial material.
 						</p>
 					</div>
 
@@ -87,7 +89,7 @@ get_header();
 						<div class="inner_wrap">
 
 									<!-- Echo form shortcode-->
-								<?php echo do_shortcode( '[contact-form-7 id="200" title="Contact form main"]' ); ?>
+								<?php echo do_shortcode( '[contact-form-7 id="9" title="Contact form 1"]' ); ?>
 
 						
 								
