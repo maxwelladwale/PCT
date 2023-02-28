@@ -12,9 +12,9 @@ get_header();
 <div class="glax_tm_section">
 			<div class="glax_tm_main_title_holder">
 				<div class="container">
-					<div class="title_holder">
+					<!-- <div class="title_holder">
 						<h3>Contact Us</h3>
-					</div>
+					</div> -->
 					<div class="builify_tm_breadcrumbs">
 						<ul>
 							<li>Home</li>
@@ -52,15 +52,15 @@ get_header();
 										</div>
 										<div class="short_info_wrap">
 											<div class="row">
-												<p>1125 E Hillsboro St, Pasco, WA 99301</p>
+												<p>1611 N Molter Rd Ste.202, Liberty Lake, WA 99019</p>
 											</div>
 											<div class="row">
 												<label>Phone:</label>
-												<span>(509) 547-0412</span>
+												<span>(509) 922-8755</span>
 											</div>
 											<div class="row">
 												<label>Email:</label>
-												<span><a href="#">information@smktricities.com</a></span>
+												<span><a href="#">sales@pctmfg.com</a></span>
 											</div>
 										</div>
 									</div>
