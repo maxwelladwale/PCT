@@ -75,7 +75,7 @@
                                     <div class="span_1_of_6 separator-solid">
                                         <div class="flat-content-wrap pd26 h-one">
                                             <div class="title">1998</div>
-                                            <p style="padding-bottom: 64px;">PCT founded in Spokane, Washington.</p>
+                                            <p style="padding-bottom: 32px;">PCT founded in Spokane, Washington.</p>
                                         </div>
                                         <div class="flat-content-wrap pd26 h-two">
                                             <div class="title">2018</div>
