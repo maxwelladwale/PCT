@@ -382,7 +382,7 @@ get_header();
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4289.jpg" data-group="1" class="galleryItem 101"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4293.jpg" data-group="1" class="galleryItem 101"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4298.jpg" data-group="1" class="galleryItem 101"></a>
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/SC4303.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DC4303.jpg" data-group="1" class="galleryItem 101"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4304.jpg" data-group="1" class="galleryItem 101"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4309.jpg" data-group="1" class="galleryItem 101"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4310.jpg" data-group="1" class="galleryItem 101"></a>
