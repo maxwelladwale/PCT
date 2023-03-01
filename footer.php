@@ -134,7 +134,7 @@
 
 
 
-															<span class="left">Monday - Friday: 7am – 3:30pm</span>
+															<span class="left">Monday - Friday: 7am – 3:00pm</span>
 
 
 

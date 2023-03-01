@@ -42,8 +42,7 @@
 				<div class="left_part_wrap">
 					<div class="share_wrap">
 						<ul>
-							<li><a href="#"><i class="xcon-facebook"></i></a></li>
-							<li><a href="#"><i class="xcon-linkedin"></i></a></li>
+							<li><a href="https://www.facebook.com/Precision-Cutting-Technologies-1017001788322642/"><i class="xcon-facebook"></i></a></li>
 							
 						</ul>
 					</div>
@@ -54,16 +53,16 @@
 				<div class="right_part_wrap">
 					<ul>
 						<li data-style="home">
-							<a href="<?php site_url()?>/"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/home.svg" alt="" /></a>
+							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/home.svg" alt="" /></a>
 						</li>
 						<li data-style="message">
-							<a href="<?php site_url()?>/contact-us"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/message2.svg" alt="" /></a>
+							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/message2.svg" alt="" /></a>
 						</li>
 						<li data-style="phone">
-							<a href="<?php site_url()?>/contact-us"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/old_phone.svg" alt="" /></a>
+							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/old_phone.svg" alt="" /></a>
 						</li>
 						<li data-style="clock">
-							<a href="<?php site_url()?>/contact-us"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/clock.svg" alt="" /></a>
+							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/clock.svg" alt="" /></a>
 						</li>
 					</ul>
 				</div>
@@ -249,18 +248,18 @@
 							</div>
 							<div class="definitions_wrap">
 								<h3>Washington Headquarters</h3>
-								<p>1125 E Hillsboro St, Pasco, WA 99301</p>
-								<p>Phone: 509-547-0412</p>
-								<p><span>Email:</span><a href="mailto:information@smktricities.com">information@smktricities.com</a></p>
+								<p>1611 N Molter Rd Ste. 202, Liberty Lake, WA 99019</p>
+								<p>Phone: (509) 922-875</p>
+								<p><span>Email:</span><a href="mailto:sales@pctmfg.com">sales@pctmfg.com</a></p>
 							</div>
 						</div>
 					</div>
 					<div class="drop_list message">
 						<div class="short_contact">
 							<h3 class="title">Request a Quote</h3>
-							<p class="subtitle">SMK is committed to providing the highest level of customer service. Please complete the following form and click the “Send Message” button. We look forward to assisting you</p>
+							<p class="subtitle">PCT is committed to providing the highest level of customer service. Please complete the following form and click the “Send Message” button. We look forward to assisting you</p>
 							<div class="inputs_wrap">
-								<?php echo do_shortcode( '[contact-form-7 id="201" title="Contact side"]' ); ?>
+								<?php echo do_shortcode( '[contact-form-7 id="112" title="Request Form"]' ); ?>
 
 							</div>
 						</div>
@@ -271,7 +270,7 @@
 								<img src="img/estimate/call.png" alt="" />
 							</div>
 							<h3>Call Us</h3>
-							<p>509-547-0412</p>
+							<p>(509) 922-875</p>
 						</div>
 					</div>
 					<div class="drop_list clock">
