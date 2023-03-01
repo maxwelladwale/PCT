@@ -71,6 +71,7 @@ img.svg{
 		gap: 10px;
 		margin-bottom: 10px;
 	}
+
 }
 .single-leader-cont > .main_definitions h3{
 	margin: 0px;
@@ -124,6 +125,8 @@ img.svg{
 		align-items: center;
 		width: 100%;
 	}
+
+
 }
 .glax_tm_sticky_section{
 	position: -webkit-sticky;
@@ -5325,7 +5328,6 @@ img.svg{
     line-height: 1.7;
     color: #666;
 }
-
 /*------------------------------------------------------------------*/ 
 /*	22) GLAX CONTACT
 /*------------------------------------------------------------------*/
@@ -5343,17 +5345,82 @@ img.svg{
 	clear: both;
 	float: left;
 	margin-bottom: 40px;
+	display: block;
+
 }
+
+@media (max-width: 800px){
+	.office_list{
+		display: flex;
+		width: 100%;
+		height: auto;
+		clear: both;
+		float: left;
+		margin-bottom: 40px;
+
+	}
+	.glax_tm_main_contact_wrap .office_list ul li .inner{
+		display: flex;
+		flex-direction: row;
+		width: 100%;
+		height: auto;
+		clear: both;
+		float: left;
+		position: relative;
+	}
+}
+
 .glax_tm_main_contact_wrap .office_list ul{
 	margin: 0px 0px 0px -30px;
 	list-style-type: none;
 }
-.glax_tm_main_contact_wrap .office_list ul li{
+
+/* .glax_tm_main_contact_wrap .office_list ul li{
 	margin: 0px 0px 30px 0px;
 	float: left;
 	width: 33.3333%;
 	padding-left: 30px;
+} */
+
+.glax_tm_main_contact_wrap .office_list ul{
+	display: flex;
+	gap: 25px;
 }
+.glax_tm_main_contact_wrap .office_list ul li:nth-child(1){
+	width: 33.333333%;
+}
+
+.mymap{
+	width: 66%;
+	height: fit-content;
+	padding-bottom: 50px;
+}
+
+iframe{
+	width: 100%;
+	height: 510px;
+}
+
+@media screen and (min-width: 360px) and (max-width: 479px) {
+	.glax_tm_main_contact_wrap .office_list ul{
+		display: flex;
+		flex-direction: column;
+	}
+	.inner{
+		width: 22rem !important;
+		border: 4px solid teal;
+	}
+	iframe{
+		width: 100%;
+	} 
+
+	.office_list{
+	}
+ 	/* .inner_wrap{
+
+	} */
+}
+
 .glax_tm_main_contact_wrap .office_list ul li .inner{
 	width: 100%;
 	height: auto;
@@ -5559,6 +5626,9 @@ img.svg{
 	margin-bottom: 7px;
 }
 
+
+
+
 /*------------------------------------------------------------------*/ 
 /*	23) GLAX MEDIA QUERIES (FOR SMALL DEVICES)
 /*------------------------------------------------------------------*/
@@ -5666,8 +5736,21 @@ img.svg{
 	.glax_tm_home_service_list ul li .inner_list{border-bottom: 1px solid #aaa;}
 	.glax_tm_home_service_list ul li:last-child .inner_list{border-bottom: none;}
 	.glax_tm_about_counter_wrap .glax_tm_counter_list li{width: 100%;text-align: center;}
+	.glax_tm_main_contact_wrap .office_list ul li .inner{
+		display: flex;
+		flex-direction: column;
+	}
+	 
 }
 
+@media (min-width: 375px){
+	.wpcf7-form {
+		padding: 10px;
+		display: grid;
+		gap: 22px;
+		
+		}
+}
 
 
 /* new styles */
@@ -5802,10 +5885,7 @@ img.svg{
 	position: relative;
 }
 
-  .mymap{
-	padding-bottom: 50px;
-	width:66.6667% !important;
-  }
+ 
   .mobi-logo{
 	max-width: 50% !important;
   }
@@ -5818,6 +5898,8 @@ img.svg{
   .who_we_are .list_wrap ul li h5{
 	color: #23387E;
   }
+
+
   
   .wpcf7-form {
 display: grid;
@@ -5848,6 +5930,26 @@ backround-color:#23387E !important;
     transition: all .3s ease;
 	width: 30%;
 	
+}
+@media (min-width: 800px){
+	.office_list{
+	display: flex;
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+	margin-bottom: 40px;
+
+	}
+	.glax_tm_main_contact_wrap .office_list ul li .inner{
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		height: auto;
+		clear: both;
+		float: left;
+		position: relative;
+	}
 }
 
 .wpcf7-form-control-wrap input{
