@@ -38,9 +38,9 @@ get_header();
 							<li>
 								<div class="inner">
 									<div class="image_wrap">
-										<img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/370x220.jpg" alt="" />
-										<div class="image">
-										</div>
+										
+										<div class="image"></div>
+										<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/PCT-logo.webp" alt="" />
 
 									</div>
 									<div class="definitions_wrap">
