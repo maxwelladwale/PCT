@@ -1,15 +1,20 @@
 <?php
 
-/* Template Name: Parts Page */
+/* Template Name: projects Page */
+
+
 
 get_header();
+
 
 
 ?>
 
 
 
-<!-- PARTS -->
+
+
+<!-- PROJECTS -->
 
 <div class="glax_tm_section">
 
@@ -19,7 +24,7 @@ get_header();
 
 					<div class="title_holder">
 
-						<h3>Parts</h3>
+						<h3>Projects</h3>
 
 					</div>
 
@@ -31,7 +36,7 @@ get_header();
 
 							<li class="shape"><span></span></li>
 
-							<li><span>Parts</span></li>
+							<li><span>Projects</span></li>
 
 						</ul>
 
@@ -46,7 +51,6 @@ get_header();
 		<div class="glax_tm_section">
 
 			<div class="container">
-                <p>We manufacture the highest quality end items made of any industrial material. Our engineers and craftsmen will turn your project requirements into custom precision parts with industry leading quality and reliability</p>
 
 				<div class="glax_tm_projects_wrap">
 
@@ -64,7 +68,7 @@ get_header();
 
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC4121.jpg" data-group="1" class="galleryItem test">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0996.webp" data-group="1" class="galleryItem test">
 
                                 <div class="inner" id="dynamic-gallery-demo">
 
@@ -72,17 +76,17 @@ get_header();
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC4121.jpg"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0996.webp"></div>
 
                                         <div class="overlay_color"></div>
 
                                         <div class="title_holder">
 
-                                            <h3>Aluminium</h3>
+                                            <h3>Large Produce Receiving Line</h3>
 
                                             <div class="glax_tm_view_more_wrap">
 
-                                                <!-- <span class="text">SMK designed, built, and fabricated potato receiving line for dry removal of vines, dirt clods, and loose dirt</span>     -->
+                                                <span class="text">SMK designed, built, and fabricated potato receiving line for dry removal of vines, dirt clods, and loose dirt</span>    
 
                                             </div>
 
@@ -100,7 +104,7 @@ get_header();
 
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/st_DSC4206.webp" data-group="2" class="galleryItem 282">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1021.webp" data-group="2" class="galleryItem 282">
 
                                 <div class="inner" id="dynamic-gallery-demo">
 
@@ -108,17 +112,17 @@ get_header();
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/st_DSC4206.webp"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1021.webp"></div>
 
                                         <div class="overlay_color"></div>
 
                                         <div class="title_holder">
 
-                                            <h3>Stainless Steel</h3>
+                                            <h3>Sanitary Piping System</h3>
 
                                             <div class="glax_tm_view_more_wrap">
 
-                                                <!-- <span class="text">Fabrication and installation of sanitary piping systems for the food and beverage industry</span>     -->
+                                                <span class="text">Fabrication and installation of sanitary piping systems for the food and beverage industry</span>    
 
                                             </div>
 
@@ -136,7 +140,7 @@ get_header();
 
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/s_DSC4099.webp" data-group="3" class="galleryItem 383">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0647.webp" data-group="3" class="galleryItem 383">
 
                                 <div class="inner" id="dynamic-gallery-demo">
 
@@ -144,17 +148,17 @@ get_header();
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/s_DSC4099.webp"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0647.webp"></div>
 
                                         <div class="overlay_color"></div>
 
                                         <div class="title_holder">
 
-                                            <h3>Mild Steel</h3>
+                                            <h3>Pellet Processing System</h3>
 
                                             <div class="glax_tm_view_more_wrap">
 
-                                                <!-- <span class="text">Pellet processing system that converts raw hops from bales into pellets, resulting in packaged pellet foil bags</span>     -->
+                                                <span class="text">Pellet processing system that converts raw hops from bales into pellets, resulting in packaged pellet foil bags</span>    
 
                                             </div>
 
@@ -170,7 +174,7 @@ get_header();
 
 
 
-                        <!-- <li class="architecture" >
+                        <li class="architecture" >
 
                             <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/Hopsteiner-1.webp" data-group="4" class="galleryItem">
 
@@ -238,14 +242,14 @@ get_header();
 
                             </a>
 
-                        </li> -->
+                        </li>
 
 
 
 					</ul>
 
 				</div>
-                <p style="width: 100%;  text-align: center; margin-bottom: 50px; font: size 20px;"><b>We also manufacture high quality titanium, brass, and copper parts by request</b></p>
+
 			</div>
 
 		</div>
@@ -258,54 +262,56 @@ get_header();
 
         <!-- gallery items here -->
 
-        <a href="<?php echo esc_url( home_url() );?>wp-content/uploads/2023/03/_DSC4097.jpg" data-group="1" class="galleryItem test"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC4121.jpg" data-group="1" class="galleryItem test"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4155.webp" data-group="1" class="galleryItem test"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1005.webp" data-group="1" class="galleryItem test"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4158.webp" data-group="1" class="galleryItem test"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1003.webp" data-group="1" class="galleryItem test"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4159.webp" data-group="1" class="galleryItem test"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1001.webp" data-group="1" class="galleryItem test"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4167.webp" data-group="1" class="galleryItem test"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1000.webp" data-group="1" class="galleryItem test"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4170.webp" data-group="1" class="galleryItem test"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0995.webp" data-group="1" class="galleryItem test"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4235.webp" data-group="1" class="galleryItem test"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4242.webp" data-group="1" class="galleryItem test"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4247.webp" data-group="1" class="galleryItem test"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4276.webp" data-group="1" class="galleryItem test"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4425.webp" data-group="1" class="galleryItem test"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1012.webp" data-group="1" class="galleryItem test"></a>
 
 
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1020.webp" data-group="2" class="galleryItem 282"></a> 
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/st_DSC4103.webp" data-group="2" class="galleryItem 282"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1022.webp" data-group="2" class="galleryItem 282"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/st_DSC4223.webp" data-group="2" class="galleryItem 282"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1023.webp" data-group="2" class="galleryItem 282"></a>
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1038.webp" data-group="2" class="galleryItem 282"></a>
 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1059.webp" data-group="2" class="galleryItem 282"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/s_DSC4097.webp" data-group="3" class="galleryItem 383"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1063.webp" data-group="2" class="galleryItem 282"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/s_DSC4109.webp" data-group="3" class="galleryItem 383"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/s_DSC4150.webp" data-group="3" class="galleryItem 383"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/s_DSC4151.webp" data-group="3" class="galleryItem 383"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/s_DSC4173.webp" data-group="3" class="galleryItem 383"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/s_DSC4302.webp" data-group="3" class="galleryItem 383"></a>
-
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/s_DSC4337.webp" data-group="3" class="galleryItem 383"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1068.webp" data-group="2" class="galleryItem 282"></a>
 
 
 
-<!-- 
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0600.webp" data-group="3" class="galleryItem 383"></a> 
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0601.webp" data-group="3" class="galleryItem 383"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0610.webp" data-group="3" class="galleryItem 383"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0632.webp" data-group="3" class="galleryItem 383"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0636.webp" data-group="3" class="galleryItem 383"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0660.webp" data-group="3" class="galleryItem 383"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0671.webp" data-group="3" class="galleryItem 383"></a>
+
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0704.webp" data-group="3" class="galleryItem 383"></a>
+
+
+
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/Hopsteiner-2.webp" data-group="4" class="galleryItem 484"></a>
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/Hopsteiner-3.webp" data-group="4" class="galleryItem 484"></a>
@@ -330,7 +336,7 @@ get_header();
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1097.webp" data-group="5" class="galleryItem 585"></a>
 
-        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1121.webp" data-group="5" class="galleryItem 585"></a> -->
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC1121.webp" data-group="5" class="galleryItem 585"></a>
 
 
 

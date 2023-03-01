@@ -1749,7 +1749,9 @@ img.svg{
 /*------------------------------------------------------------------*/ 
 /*	07) GLAX HOME SERVICE
 /*------------------------------------------------------------------*/
-
+#emptycard{
+	display: none;
+}
 .glax_tm_home_service_list{
 	width: 100%;
 	height: auto;
@@ -1776,7 +1778,7 @@ img.svg{
 	padding: 24px 0px 9px 0px;
 	display: flex; 
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center; 
 }
 /* .glax_tm_home_service_list ul li .inner_list:before{
@@ -3496,7 +3498,8 @@ img.svg{
 }
 .glax_tm_projects_wrap .glax_tm_portfolio_list .inner .title_holder{
 	position: absolute;
-	left: 5%;
+	left: 3%;
+	right: 3%;
 	z-index: 3;
 }
 .glax_tm_projects_wrap .glax_tm_portfolio_list .inner .title_holder h3{
@@ -5610,6 +5613,7 @@ img.svg{
 	.glax_tm_about_counter_wrap .glax_tm_counter_list li{width: 50%;}
 	.glax_tm_about_counter_wrap .inner_counter .leftbox{width: 100%;min-width: 100%;padding: 0px;}
 	.glax_tm_about_team_wrap ul li{width: 50%;}
+	#emptycard{display: block;}
 }
 @media (max-width: 1040px) {
 	.glax_tm_wrapper_all .lang_box{display: none;}
@@ -5625,6 +5629,7 @@ img.svg{
 	.glax_tm_home_service_list ul li:nth-child(2n) .inner_list:after{display: none;}
 	.glax_tm_list_wrap[data-column="4"] ul.glax_list > li{width: 33.3333%;}
 	.glax_tm_list_wrap[data-column="5"] ul.glax_list > li{width: 33.3333%;}
+	#emptycard{display: none;}
 }
 @media (max-width: 768px) {
 	.glax_tm_introduce_wrap .inner_wrap .main_info_wrap{max-width: 100%;padding-right: 0px;}
@@ -5655,6 +5660,7 @@ img.svg{
 	.glax_tm_about_counter_wrap{margin-bottom: 75px;}
 	.glax_tm_about_team_wrap ul{margin: 0px;}
 	.glax_tm_about_team_wrap ul li{width: 100%;padding-left: 0px;}
+	#emptycard{display: none;}
 }
 @media (max-width: 480px) {
 	.glax_tm_mobile_bar_wrap .mobile_topbar_wrap .inner_wrap{display: block;}
@@ -5670,6 +5676,7 @@ img.svg{
 	.glax_tm_home_service_list ul li .inner_list{border-bottom: 1px solid #aaa;}
 	.glax_tm_home_service_list ul li:last-child .inner_list{border-bottom: none;}
 	.glax_tm_about_counter_wrap .glax_tm_counter_list li{width: 100%;text-align: center;}
+	#emptycard{display: none;}
 }
 
 

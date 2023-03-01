@@ -26,19 +26,6 @@ function pct_fn_setup(){
     
 }
 
-// ===========================================================
-//     ENQUEUE STYLES
-// ===========================================================
-function pct_styles(){
-    wp_enqueue_style('pct-fn-base', get_template_directory_uri().'/assets/css/base.css', array(), PCT_VERSION, 'all');
-    wp_enqueue_style('pct-fn-plugins', get_template_directory_uri().'/assets/css/plugins.css', array(), PCT_VERSION, 'all');
-    wp_enqueue_style('pct-fn-skeleton', get_template_directory_uri().'/assets/css/skeleton.css', array(), PCT_VERSION, 'all');
-    wp_enqueue_style('fontello', get_template_directory_uri().'/assets/css/fontello.css', array(), PCT_VERSION, 'all');
-    wp_enqueue_style('pct-style', get_template_directory_uri().'/assets/css/style.css', array(), PCT_VERSION, 'all');
-
-    wp_enqueue_style('pct-opensans', 'https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i', array(), PCT_VERSION, 'all');
-}
-
 // =============================================================
 //     ENQUEUE SCRIPTS
 // =============================================================
@@ -56,6 +43,21 @@ function pct_scripts() {
     wp_enqueue_script('pct-fn-lightgallery4', 'https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/plugins/video/lg-video.min.js', array('jquery'), PCT_VERSION, TRUE);
 
 }
+
+// ===========================================================
+//     ENQUEUE STYLES
+// ===========================================================
+function pct_styles(){
+    wp_enqueue_style('pct-fn-base', get_template_directory_uri().'/assets/css/base.css', array(), PCT_VERSION, 'all');
+    wp_enqueue_style('pct-fn-plugins', get_template_directory_uri().'/assets/css/plugins.css', array(), PCT_VERSION, 'all');
+    wp_enqueue_style('pct-fn-skeleton', get_template_directory_uri().'/assets/css/skeleton.css', array(), PCT_VERSION, 'all');
+    wp_enqueue_style('fontello', get_template_directory_uri().'/assets/css/fontello.css', array(), PCT_VERSION, 'all');
+    wp_enqueue_style('pct-style', get_template_directory_uri().'/assets/css/style.css', array(), PCT_VERSION, 'all');
+
+    wp_enqueue_style('pct-opensans', 'https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i', array(), PCT_VERSION, 'all');
+}
+
+
 
 // =============================================================
 //     EXPORT 
