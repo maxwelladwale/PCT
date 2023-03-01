@@ -72,9 +72,7 @@ get_header();
 						</ul>
 					</div>
 
-					<?php 
-						echo the_content();
-					?>
+
 					
 					<div class="contact_text">
 						<p>
@@ -89,9 +87,8 @@ get_header();
 						<div class="inner_wrap">
 
 									<!-- Echo form shortcode-->
-								<?php echo do_shortcode( '[contact-form-7 id="9" title="Contact form 1"]' ); ?>
 
-						
+                            <?php echo the_content(); ?>
 								
 						</div>
 					</div>

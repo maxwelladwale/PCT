@@ -54,16 +54,16 @@
 				<div class="right_part_wrap">
 					<ul>
 						<li data-style="home">
-							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/home.svg" alt="" /></a>
+							<a href="<?php site_url()?>/"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/home.svg" alt="" /></a>
 						</li>
 						<li data-style="message">
-							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/message2.svg" alt="" /></a>
+							<a href="<?php site_url()?>/contact-us"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/message2.svg" alt="" /></a>
 						</li>
 						<li data-style="phone">
-							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/old_phone.svg" alt="" /></a>
+							<a href="<?php site_url()?>/contact-us"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/old_phone.svg" alt="" /></a>
 						</li>
 						<li data-style="clock">
-							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/clock.svg" alt="" /></a>
+							<a href="<?php site_url()?>/contact-us"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/clock.svg" alt="" /></a>
 						</li>
 					</ul>
 				</div>
@@ -226,16 +226,16 @@
 				<div class="widget_icons_wrap">
 					<ul>
 						<li class="home" data-style="home">
-							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/home.svg" alt="" /></a>
+							<a href="<?php site_url()?>/"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/home.svg" alt="" /></a>
 						</li>
 						<li class="message" data-style="message">
-							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/message2.svg" alt="" /></a>
+							<a href="<?php site_url()?>/contact-us"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/message2.svg" alt="" /></a>
 						</li>
 						<li class="phone" data-style="phone">
-							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/old_phone.svg" alt="" /></a>
+							<a href="<?php site_url()?>/contact-us"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/old_phone.svg" alt="" /></a>
 						</li>
 						<li class="clock" data-style="clock">
-							<a href="#"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/clock.svg" alt="" /></a>
+							<a href="<?php site_url()?>/contact-us"><img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/clock.svg" alt="" /></a>
 						</li>
 					</ul>
 				</div>

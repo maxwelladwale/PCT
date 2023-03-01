@@ -241,7 +241,7 @@
 
 																<p class="wrapss">
 
-																	<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/old_phone.png" alt="">
+																	<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/fax.png" alt="">
 
 																	<span class="left" style="padding-left:2em;">(509) 922-8746</span>
 

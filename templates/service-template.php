@@ -6,593 +6,460 @@ get_header();
 
 ?>
 
+    <!-- SERVICES-->
 
+    <div class="glax_tm_section">
 
-		<!-- SERVICES-->
+        <div class="glax_tm_main_title_holder">
 
-		<div class="glax_tm_section">
+            <div class="container">
 
-			<div class="glax_tm_main_title_holder">
+                <div class="title_holder">
 
-				<div class="container">
+                    <h3>Services</h3>
 
-					<div class="title_holder">
+                </div>
 
-						<h3>Services</h3>
+                <div class="builify_tm_breadcrumbs">
 
-					</div>
+                    <ul>
 
-					<div class="builify_tm_breadcrumbs">
+                        <li><a href="<?php echo esc_url( home_url() );?>">Home</a></li>
 
-						<ul>
+                        <li class="shape"><span></span></li>
 
-							<li><a href="<?php echo esc_url( home_url() );?>">Home</a></li>
+                        <li><span>Services</span></li>
 
-							<li class="shape"><span></span></li>
+                    </ul>
 
-							<li><span>Services</span></li>
+                </div>
 
-						</ul>
+            </div>
 
-					</div>
+        </div>
 
-				</div>
+    </div>
 
-			</div>
+    <div class="glax_tm_section">
 
-		</div>
+        <div class="container">
 
-		<div class="glax_tm_section">
+            <div class="glax_tm_services_wrap">
 
-			<div class="container">
+                <div class="">
 
-				<div class="glax_tm_services_wrap">
+                    <div class="leftbox">
 
-					<div class="">
+                        <div class="glax_tm_service_title_holder">
 
-						<div class="leftbox">
+                            <p>
+                                Our craftsmen manufacture the highest quality end items made of any industrial material from design to product delivery
+                            </p>
 
-							<div class="glax_tm_service_title_holder">
+                        </div>
 
-								<p>
+                        <div class="glax_tm_service_list_wrap">
 
-								Our craftsmen have the wide-ranging expertise to manage the entire lifecycle of your project, from design to installation and maintenance. Customers are at the center of everything we do. We stand behind our work and guarantee customer satisfaction
+                            <ul>								<li>
 
-								</p>
+                                    <div class="inner servicev">
 
-							</div>
+                                        <div class="list_image_wrap">
 
-							<div class="glax_tm_service_list_wrap">
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4300.jpg"></div>
 
-								<ul>								<li>
+                                        </div>
 
-										<div class="inner servicev">
+                                        <div class="main_infos">
 
-											<div class="list_image_wrap">
+                                            <div class="title_holder">
 
-												<div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC07971.webp"></div>
+                                                <h3>CNC Machining</h3>
 
-											</div>
+                                                <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.003”</p>
 
-											<div class="main_infos">
+                                            </div>
 
-												<div class="title_holder">
+                                        </div>
 
-													<h3>Machine Cutting</h3>
+                                        <div class="glax_tm_shape_read_more_wrap">
 
-													<p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.003”</p>
+                                            <div class="read_more_in">
 
-												</div>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4300.jpg" data-group="1" class="galleryItem 101">See Gallery</a>
 
-											</div>
+                                            </div>
 
-											<div class="glax_tm_shape_read_more_wrap">
+                                        </div>
 
-												<div class="read_more_in">
+                                    </div>
 
-												<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC07971.webp" data-group="1" class="galleryItem 101">See Gallery</a>
+                                </li>
 
-												</div>
+                                <li>
 
-											</div>
+                                    <div class="inner servicev">
 
-										</div>
+                                        <div class="list_image_wrap">
 
-									</li>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4286.jpg"></div>
 
-									<li>
+                                        </div>
 
-										<div class="inner servicev">
+                                        <div class="main_infos">
 
-											<div class="list_image_wrap">
+                                            <div class="title_holder">
 
-												<div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC07041.webp"></div>
+                                                <h3>CNC Punching & Forming</h3>
 
-											</div>
+                                                <p>
+                                                    We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling
+                                                </p>
+                                            </div>
 
-											<div class="main_infos">
+                                        </div>
 
-												<div class="title_holder">
+                                        <div class="glax_tm_shape_read_more_wrap">
 
-													<h3>Field Installation</h3>
+                                            <div class="read_more_in">
 
-													<p>Industrial processing from equipment setting, transitions and chutes, conveyors, catwalks and stairs, air handling systems, piping, and tanks</p>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4286.jpg" data-group="2" class="galleryItem 202">See Gallery</a>
 
-												</div>
+                                            </div>
 
-											</div>
+                                        </div>
 
-											<div class="glax_tm_shape_read_more_wrap">
+                                    </div>
 
-												<div class="read_more_in">
+                                </li>
 
-													<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06341.webp" data-group="2" class="galleryItem 202">See Gallery</a>
+                                <li>
 
-												</div>
+                                    <div class="inner servicev">
 
-											</div>
+                                        <div class="list_image_wrap">
 
-										</div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4237.jpg"></div>
 
-									</li>
+                                        </div>
 
-									<li>
+                                        <div class="main_infos">
 
-										<div class="inner servicev">
+                                            <div class="title_holder">
 
-											<div class="list_image_wrap">
+                                                <h3>Laser Cutting</h3>
 
-												<div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC08681.webp"></div>
+                                                <p>
+                                                    Our CNC laser cutting machines provide ultra-high precision and accuracy within +/- 0.005“ to manufacture top quality parts
+                                                </p>
 
-											</div>
+                                            </div>
 
-											<div class="main_infos">
+                                        </div>
 
-												<div class="title_holder">
+                                        <div class="glax_tm_shape_read_more_wrap">
 
-													<h3>Metal Fabrication</h3>
+                                            <div class="read_more_in">
 
-													<p>We manufacture any type of custom end item and design products for custom fabrication, including light gauge sheet metal shapes for commercial and industrial uses</p>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4237.jpg" data-group="3" class="galleryItem 303">See Gallery</a>
 
-												</div>
+                                            </div>
 
-											</div>
+                                        </div>
 
-											<div class="glax_tm_shape_read_more_wrap">
+                                    </div>
 
-												<div class="read_more_in">
+                                </li>
 
-												<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC09031.webp" data-group="3" class="galleryItem 303">See Gallery</a>
+                                <li>
 
-												</div>
+                                    <div class="inner servicev">
 
-											</div>
+                                        <div class="list_image_wrap">
 
-										</div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4215.jpg"></div>
 
-									</li>
+                                        </div>
 
-									<li>
+                                        <div class="main_infos">
 
-										<div class="inner servicev">
+                                            <div class="title_holder">
 
-											<div class="list_image_wrap">
+                                                <h3>Waterjet Cutting</h3>
 
-												<div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC09551.webp"></div>
+                                                <p>Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification</p>
 
-											</div>
+                                            </div>
 
-											<div class="main_infos">
+                                        </div>
 
-												<div class="title_holder">
+                                        <div class="glax_tm_shape_read_more_wrap">
 
-													<h3>Industrial Equipment Fabrication</h3>
+                                            <div class="read_more_in">
 
-													<p>We leverage a fully equipped fabrication shop capable of shearing, roll forming, break forming, MIG & TIG welding, drilling, and punching</p>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4215.jpg" data-group="4" class="galleryItem 404">See Gallery</a>
 
-												</div>
+                                            </div>
 
-											</div>
+                                        </div>
 
-											<div class="glax_tm_shape_read_more_wrap">
+                                    </div>
 
-												<div class="read_more_in">
+                                </li>
 
-												<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06711-2.webp" data-group="4" class="galleryItem 404">See Gallery</a>
+                                <li>
 
-												</div>
+                                    <div class="inner servicev">
 
-											</div>
+                                        <div class="list_image_wrap">
 
-										</div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4135.jpg"></div>
 
-									</li>
+                                        </div>
 
-									<li>
+                                        <div class="main_infos">
 
-										<div class="inner servicev">
+                                            <div class="title_holder">
 
-											<div class="list_image_wrap">
+                                                <h3>Welding & Fabrication </h3>
 
-												<div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10121.webp"></div>
+                                                <p>We use MIG & TIG welding for accurate and efficient production of light gauge sheet metal shapes for commercial and industrial uses</p>
 
-											</div>
+                                            </div>
 
-											<div class="main_infos">
+                                        </div>
 
-												<div class="title_holder">
+                                        <div class="glax_tm_shape_read_more_wrap">
 
-													<h3>Production Lines</h3>
+                                            <div class="read_more_in">
 
-													<p>We pride ourselves on expert fabrication and installation of custom receiving lines and sanitary piping systems for any industrial setting</p>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4135.jpg" data-group="5" class="galleryItem 505">See Gallery</a>
 
-												</div>
+                                            </div>
 
-											</div>
+                                        </div>
 
-											<div class="glax_tm_shape_read_more_wrap">
+                                    </div>
 
-												<div class="read_more_in">
+                                </li>
 
-												<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10071.webp" data-group="5" class="galleryItem 505">See Gallery</a>
+                                <li>
 
-												</div>
+                                    <div class="inner servicev">
 
-											</div>
+                                        <div class="list_image_wrap">
 
-										</div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4252.jpg"></div>
 
-									</li>
 
-									<li>
 
-										<div class="inner servicev">
+                                        </div>
 
-											<div class="list_image_wrap">
+                                        <div class="main_infos">
 
-												<div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/Drafting-1.webp"></div>
+                                            <div class="title_holder">
 
-												
+                                                <h3>Powder Coat & Metal Finishing</h3>
 
-											</div>
+                                                <p>Our powder coating and metal furnishing professionals provide a high-quality finish for a more polished and durable product </p>
 
-											<div class="main_infos">
+                                            </div>
 
-												<div class="title_holder">
+                                        </div>
 
-													<h3>Design &amp; Drafting</h3>
+                                        <div class="glax_tm_shape_read_more_wrap">
 
-													<p>Our skilled mechanical engineers employ CAD technology to design end items and CNC machined parts, providing custom solutions to our customers</p>
+                                            <div class="read_more_in">
 
-												</div>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4252.jpg" data-group="6" class="galleryItem 505">See Gallery</a>
 
-											</div>
+                                            </div>
 
-											<div class="glax_tm_shape_read_more_wrap">
+                                        </div>
 
-												<div class="read_more_in">
+                                    </div>
 
-												<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/Drafting-1.webp" data-group="6" class="galleryItem 505">See Gallery</a>
+                                </li>
 
-												</div>
+                                <li>
 
-											</div>
+                                    <div class="inner servicev">
 
-										</div>
+                                        <div class="list_image_wrap">
 
-									</li>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4450.jpg"></div>
 
-									<li>
+                                        </div>
 
-										<div class="inner servicev">
+                                        <div class="main_infos">
 
-											<div class="list_image_wrap">
+                                            <div class="title_holder">
 
-												<div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06891-1.webp"></div>
+                                                <h3>Design & Engineering </h3>
 
-											</div>
+                                                <p>Our skilled mechanical engineers employ CAD technology to design end items and CNC machined parts, providing custom solutions to our customers</p>
 
-											<div class="main_infos">
+                                            </div>
 
-												<div class="title_holder">
+                                        </div>
 
-													<h3>Plant Maintenance</h3>
+                                        <div class="glax_tm_shape_read_more_wrap">
 
-													<p>Production line additions, machine guarding, metal tool and equipment maintenance, emergency duplication and replacement, and complete turnkey capital projects</p>
+                                            <div class="read_more_in">
 
-												</div>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4450.jpg" data-group="7" class="galleryItem 707">See Gallery</a>
 
-											</div>
+                                            </div>
 
-											<div class="glax_tm_shape_read_more_wrap">
+                                        </div>
 
-												<div class="read_more_in">
+                                    </div>
 
-												<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06771.webp" data-group="7" class="galleryItem 707">See Gallery</a>
+                                </li>
 
-												</div>
+                            </ul>
 
-											</div>
+                        </div>
 
-										</div>
+                        <div class="glax_tm_brochures_wrap">
 
-									</li>
+                            <div class="title_holder">
 
-									<!-- <li>
+                                <span>Company Presentation</span>
 
-										<div class="inner">
+                            </div>
 
-											<div class="list_image_wrap">
+                            <ul>
 
-												<div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/IMG_6023-1.webp"></div>
+                                <li>
 
-											</div>
+                                    <div class="inner">
 
-											<div class="main_infos">
+                                        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/SMK_brochure_download.pdf"  style="text-decoration:none;">
 
-												<div class="title_holder">
 
-													<h3>Custom Metal Design</h3>
 
-													<p>We manufacture any type of custom end item and design products for custom fabrication</p>
+                                            <div class="icon">
 
-												</div>
+                                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/file-pdf.svg" alt="" />
 
-											</div>
+                                            </div>
 
-											<div class="glax_tm_shape_read_more_wrap">
+                                            <span class="text">Download .PDF</span>
 
-												<div class="read_more_in">
+                                            <span class="arrow"></span>
 
-												<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/IMG_0287.webp" data-group="8" class="galleryItem 808">See Gallery</a>
+                                        </a>
 
-												</div>
+                                    </div>
 
-											</div>
+                                </li>
 
-										</div>
+                            </ul>
 
-									</li> -->
+                        </div>
 
-									<li>
+                    </div>
 
-										<div class="inner servicev">
+                    <div class="rightbox">
 
-											<div class="list_image_wrap">
 
-												<div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06071-1.webp"></div>
 
-											</div>
+                    </div>
 
-											<div class="main_infos">
+                </div>
 
-												<div class="title_holder">
 
-													<h3>Project Management</h3>
 
-													<p>We provide project management for our services and large capital projects with our skilled leadership, foremen, and estimators</p>
+            </div>
 
-												</div>
+        </div>
 
-											</div>
+    </div>
 
-											<div class="glax_tm_shape_read_more_wrap">
+    <!-- CNC Machining -->
 
-												<div class="read_more_in">
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4289.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4293.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4298.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4303.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4304.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4309.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4310.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4313.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4315.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4325.jpg" data-group="1" class="galleryItem 101"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4330.jpg" data-group="1" class="galleryItem 101"></a>
 
-												<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC04311.webp" data-group="9" class="galleryItem 909">See Gallery</a>
+    <!-- CNC Punching & Forming -->
 
-												</div>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4097.jpg" data-group="2" class="galleryItem 202"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4099.jpg" data-group="2" class="galleryItem 202"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4117.jpg" data-group="2" class="galleryItem 202"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4120.jpg" data-group="2" class="galleryItem 202"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4121.jpg" data-group="2" class="galleryItem 202"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4139.jpg" data-group="2" class="galleryItem 202"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4167.jpg" data-group="2" class="galleryItem 202"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4389.jpg" data-group="2" class="galleryItem 202"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4399.jpg" data-group="2" class="galleryItem 202"></a>
 
-											</div>
+    <!-- Laser Cutting  -->
 
-										</div>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4155.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4158.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4159.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4170.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4177.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4242.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4243.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4247.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4355.jpg" data-group="3" class="galleryItem 303"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4425.jpg" data-group="3" class="galleryItem 303"></a>
 
-									</li>
+    <!-- Waterjet Cutting  -->
 
-								</ul>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4205.jpg" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4206.jpg" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4219.jpg" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4223.jpg" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4302.jpg" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4337.jpg" data-group="4" class="galleryItem 404"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4379.jpg" data-group="4" class="galleryItem 404"></a>
 
-							</div>
+    <!-- Welding & Fabrication -->
 
-							<div class="glax_tm_brochures_wrap">
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4103.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4105.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4106.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4113.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4114.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4116.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4129.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4130.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4133.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4187.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4193.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4203.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4281.jpg" data-group="5" class="galleryItem 505"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4411.jpg" data-group="5" class="galleryItem 505"></a>
 
-								<div class="title_holder">
+    <!-- Powder Coat & Metal Finishing  -->
 
-									<span>Company Presentation</span>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4148.jpg" data-group="6" class="galleryItem 606"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4153.jpg" data-group="6" class="galleryItem 606"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4250.jpg" data-group="6" class="galleryItem 606"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4263.jpg" data-group="6" class="galleryItem 606"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4264.jpg" data-group="6" class="galleryItem 606"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4392.jpg" data-group="6" class="galleryItem 606"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4464.jpg" data-group="6" class="galleryItem 606"></a>
 
-								</div>
 
-								<ul>
+    <!-- Design & Engineering -->
 
-									<li>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4141.jpg" data-group="7" class="galleryItem 707"></a>
 
-										<div class="inner">
 
-										<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/SMK_brochure_download.pdf"  style="text-decoration:none;">
-
-
-
-											<div class="icon">
-
-												<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/file-pdf.svg" alt="" />
-
-											</div>
-
-											<span class="text">Download .PDF</span>
-
-											<span class="arrow"></span>
-
-											</a>
-
-										</div>
-
-									</li>
-
-								</ul>
-
-							</div>
-
-						</div>
-
-						<div class="rightbox">
-
-							
-
-						</div>
-
-					</div>
-
-					
-
-				</div>
-
-			</div>
-
-		</div>
-
-
-
-        <!-- <a href="http://dummyimage.com/600x400/000/fff.jpg" data-group="1" class="galleryItem"></a>
-
-		<a href="https://dummyimage.com/600x400/eee/000.jpg" data-group="1" class="galleryItem"></a>
-
-
-
-        <a href="http://dummyimage.com/600x400/000/fff.jpg" data-group="2" class="galleryItem"></a>
-
-		<a href="https://dummyimage.com/600x400/eee/000.jpg" data-group="2" class="galleryItem"></a>
-
-
-
-        <a href="http://dummyimage.com/600x400/000/fff.jpg" data-group="3" class="galleryItem"></a>
-
-		<a href="https://dummyimage.com/600x400/eee/000.jpg" data-group="3" class="galleryItem"></a>
-
-
-
-        <a href="http://dummyimage.com/600x400/000/fff.jpg" data-group="4" class="galleryItem"></a>
-
-		<a href="https://dummyimage.com/600x400/eee/000.jpg" data-group="4" class="galleryItem"></a>
-
-
-
-        <a href="http://dummyimage.com/600x400/000/fff.jpg" data-group="5" class="galleryItem"></a>
-
-		<a href="https://dummyimage.com/600x400/eee/000.jpg" data-group="5" class="galleryItem"></a> -->
-
-
-
-				<!-- Machine Cutting -->
-
-		
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC08211.webp" data-group="1" class="galleryItem 101"></a>
-
-
-
-		<!-- Field Installation -->
-
-		
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06891.webp" data-group="2" class="galleryItem 202"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC07041.webp" data-group="2" class="galleryItem 202"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0600-edit.webp" data-group="2" class="galleryItem 202"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06011.webp" data-group="2" class="galleryItem 202"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06071.webp" data-group="2" class="galleryItem 202"></a>
-
-
-
-		<!-- Scaled Metal Fabrication -->
-
-		
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC09171.webp" data-group="3" class="galleryItem 303"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC09741.webp" data-group="3" class="galleryItem 303"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC08681.webp" data-group="3" class="galleryItem 303"></a>
-
-
-
-		<!-- Industrial Equipment Fabrication -->
-
-		
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC09551.webp" data-group="4" class="galleryItem 404"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10551-1.webp" data-group="4" class="galleryItem 404"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10591-1.webp" data-group="4" class="galleryItem 404"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/4992-2.webp" data-group="4" class="galleryItem 404"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/4996-1.webp" data-group="4" class="galleryItem 404"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06471-1.webp" data-group="4" class="galleryItem 404"></a>
-
-
-
-		<!-- Food & Beverage Production Lines -->
-
-		
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10121.webp" data-group="5" class="galleryItem 505"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10801-1.webp" data-group="5" class="galleryItem 505"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC10821-1.webp" data-group="5" class="galleryItem 505"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC11211.webp" data-group="5" class="galleryItem 505"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC11281.webp" data-group="5" class="galleryItem 505"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC09961.webp" data-group="5" class="galleryItem 505"></a>
-
-
-
-		<!-- Design & Drafting -->
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/Drafting-2.webp" data-group="6" class="galleryItem 606"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/Drafting-3.webp" data-group="6" class="galleryItem 606"></a>
-
-
-
-		<!-- Plant Maintenance -->
-
-		
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06891-1.webp" data-group="7" class="galleryItem 707"></a>
-
-
-
-		<!-- Custom Metal Design -->
-
-		
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/IMG_6023-1.webp" data-group="8" class="galleryItem 808"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/photo.webp" data-group="8" class="galleryItem 808"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/Picture28.webp" data-group="8" class="galleryItem 808"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/Picture62.webp" data-group="8" class="galleryItem 808"></a>
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC0983_1_.webp" data-group="8" class="galleryItem 808"></a>
-
-
-
-		<!-- Project Management -->
-
-		
-
-		<a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2022/10/DSC06071-1.webp" data-group="9" class="galleryItem 909"></a>
-
-		<!-- /SERVICES -->
+    <!-- /SERVICES -->
 
 
 

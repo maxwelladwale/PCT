@@ -14,7 +14,7 @@
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/2.jpg"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4298.webp"></div>
 
                         <div class="swiper_content">
 
@@ -33,7 +33,7 @@
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/1.jpg"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/_DSC4450.webp"></div>
 
                     </div>
 
@@ -45,19 +45,25 @@
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/4.jpg"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4135.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/5.jpg"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4215.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/6.jpg"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4237.webp"></div>
+
+                    </div>
+
+                    <div class="image_wrap swiper-slide">
+
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4300.webp"></div>
 
                     </div>
 
@@ -129,8 +135,8 @@
                             <h3 class="title">Our Company</h3>
 
                             <p class="text">
-                                Headquartered in eastern Washington State since 1991, we are a national leader in industrial equipment design, fabrication, installation, and maintenance.
-                                We design and fabricate industrial lines for any market sector and produce custom components from the design phase to delivery
+                            Headquartered in eastern Washington State since 1998, we are a national leader in advanced machining and fabrication. From single item orders to a production run of several thousand, PCT is a complete manufacturing solution for parts of any construction material.
+                             We design and fabricate precision parts for any market sector and produce custom components from the design phase to delivery
                             </p>
 
                         </div>
@@ -139,7 +145,7 @@
 
                             <div class="top">
 
-                                <p>National Leader in Industrial Equipment Fabrication and Installation</p>
+                                <p>National Leader in Machining and Parts Manufacturing</p>
 
                             </div>
 
@@ -147,7 +153,7 @@
 
                                 <div class="number">
 
-                                    <span>31</span>
+                                    <span>25</span>
 
                                 </div>
 
@@ -199,10 +205,10 @@
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/machine.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/machine.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Machine Cutting</h3>
+                                <h3>CNC Machining</h3>
                             </div>
                             <div class="description">
                                 <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.003”</p>
@@ -212,95 +218,85 @@
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/field.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/laser.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Field Installation</h3>
+                                <h3>Laser Cutting</h3>
                             </div>
                             <div class="description">
-                                <p>Industrial processing from equipment setting, transitions and chutes, conveyors, catwalks and stairs, air handling systems, piping, and tanks </p>
+                                <p>Our CNC laser cutting machines provide ultra-high precision and accuracy within +/- 0.005“ to manufacture top quality parts.</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/metal.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/metal.webp" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Metal Fabrication</h3>
+                                <h3>Welding & Fabrication</h3>
                             </div>
                             <div class="description">
-                                <p>We manufacture any type of custom end item and design products for custom fabrication, including light gauge sheet metal shapes for commercial and industrial uses</p>
+                                <p>We use MIG & TIG welding for accurate and efficient production of light gauge sheet metal shapes for commercial and industrial uses.</p>
                             </div>
                         </div>
                     </li>
-                    <li>
-                        <div class="inner_list glax_tm_minibox">
-                            <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/industrial.png" alt="" />
-                            </div>
-                            <div class="title_holder">
-                                <h3>Industrial Equipment Fabrication</h3>
-                            </div>
-                            <div class="description">
-                                <p>We leverage a fully equipped fabrication shop capable of shearing, roll forming, break forming, MIG & TIG welding, drilling, and punching</p>
-                            </div>
-                        </div>
-                    </li>
+                    
                 </ul>
 
                 <ul class="glax_tm_miniboxes">
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/production.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/punching.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3> Production Lines</h3>
+                                <h3> CNC Punching & Forming </h3>
                             </div>
                             <div class="description">
-                                <p>We pride ourselves on expert fabrication and installation of custom receiving lines and sanitary piping systems for any industrial setting</p>
+                                <p>We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling.</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/design.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/waterjet.jpg" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Design And Drafting</h3>
+                                <h3>Waterjet Cutting</h3>
                             </div>
                             <div class="description">
-                                <p>Our skilled mechanical engineers employ CAD technology to design end items and CNC machined parts, providing custom solutions to our customers</p>
+                                <p>Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification.</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/Plant.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/powder.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Plant Maintenance</h3>
+                                <h3>Powder Coat & Metal Finishing</h3>
                             </div>
                             <div class="description">
-                                <p>Production line additions, machine guarding, metal tool and equipment maintenance, emergency duplication and replacement, and complete turnkey capital projects</p>
+                                <p>Our powder coating and metal furnishing professionals provide a high-quality finish for a more polished and durable product.</p>
                             </div>
                         </div>
                     </li>
-
-                    <li>
+                </ul>
+                <ul class="glax_tm_miniboxes">
+                    <li></li>
+                <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/svg/project.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/design.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Project Management</h3>
+                                <h3>Design & Engineering</h3>
                             </div>
                             <div class="description">
-                                <p>We provide project management for our services and large capital projects with our skilled leadership, foremen, and estimators</p>
+                                <p>Our skilled mechanical engineers employ CAD technology to design end items and CNC machined parts, providing custom solutions to our customers.</p>
                             </div>
                         </div>
                     </li>
@@ -320,17 +316,17 @@
                 <div class="inner">
                     <div class="leftbox" style="min-height: 465.875px;">
                         <div class="title">
-                            <h3>National Leader In Industrial Equipment</h3>
+                            <h3>National Leader in Parts Manufacturing</h3>
                         </div>
                         <div class="text">
                             <p>
-                            We are a national leader in industrial equipment design, fabrication, installation, and maintenance. Our team designs and fabricates industrial lines for any market sector and produces custom components from the design phase to delivery. We also manufacture the highest quality end items made of any industrial material
+                            We are a national leader in parts manufacturing. Our team designs and fabricates precision parts for any market sector and produces custom components from the design phase to delivery. We manufacture the highest quality end items made of any industrial material.
                             </p>
                         </div>
                         
                     </div>
                     <div class="ratingbox">
-                        <a href="https://www.google.com/search?q=smk+tri+cities&rlz=1C1CHBF_enUS997US998&oq=smk+tri+cities&aqs=chrome.0.69i59j46i39i175i199i512j0i512l2j46i175i199i512j69i60l3.2955j0j4&sourceid=chrome&ie=UTF-8">
+                        <a href="https://www.google.com/search?q=precision+cutting+technologies&rlz=1C1GCEU_enKE1028KE1028&oq=Precision+Cutting+Techno&aqs=chrome.0.0i19i512j69i57j0i19i512l2j0i19i22i30l2j69i61.12012j0j7&sourceid=chrome&ie=UTF-8">
                         <div class="rating_wrap">
                             <div class="inner_wrap">
                                 <div class="star">
@@ -372,7 +368,7 @@
                                     <h3>Customer Quotes</h3>
                                 </div>
                                 <div class="description">
-                                    <p>Companies around the nation rely on SMK for their industrial equipment design, fabrication, and installation needs</p>
+                                    <p>Companies around the nation rely on PCT for their industrial equipment design, fabrication, and installation needs</p>
                                 </div>
                             </div>
                         </div>
@@ -384,8 +380,7 @@
                                             <div class="test-main" >
                                                 <div class="title_holder-test">
                                                     <p style="color:white";>
-                                                        "SMK has been a partner at our food production facility for many years. We rely on SMK for new equipment installs, emergency repairs of existing equipment, and daily plant maintenance activities that are beyond the scope of our in-house capabilities. Reducing unplanned downtime is critical in the food production business and SMK understands this. They have the right resources to be able to provide technical and fabrication services and are available at a moment’s notice. When no other vendors or contractors would take on a complicated repair of a spiral freezer SMK stood up to the challenge. 
-                                                        I would recommend SMK to any manufacturer or business owner who is looking for a reliable, proficient, and honest craftsmen.” - Christian, Project Engineer
+                                                        "Precision Cutting Technologies provides top quality parts and excellent service, order after order. Their dependability makes my job much easier.” - Purchasing Manager - Medical Equipment Industry
 
                                                     </p>
                                                     
@@ -398,7 +393,7 @@
                                             <div class="test-main" >
                                                 <div class="title_holder-test">
                                                     <p style="color:white";>
-                                                        "Fisher has a long successful history with SMK and I’m hereby grateful to call them a trusted partner. They’ve proven to be a specialized mechanical contractor that can take on any task in, challenging environments, and meet the schedule. SMK thrives where ingenuity and plain grit needs to prevail beyond – which is why we trust SMK, and the people there, for any task we can throw at them." – Dave, Senior Project Manager
+                                                    "Precision Cutting Technologies’ quick response time has helped us with several development projects allowing a faster transition to production." – R&D Technical Specialist- Electronic Materials Provider
                                                     </p>
                                                     
                                                 </div>
@@ -410,7 +405,7 @@
                                             <div class="test-main" >
                                                 <div class="title_holder-test">
                                                     <p style="color:white";>
-                                                        "I have been working with SMK for about 10 years in the food processing construction.  During this time, they help us with small, large, brown field, green field, and even the messy jobs.  Every time I worked with them, they provided good quality, good value, met schedule and overall easy to work with.  Recently, they offered to travel with us to Texas to work on a job.  We can count on SMK and we are very pleased to have them as part of our team.  Overall, our projects go better with SMK by our side.”  – Jim, VP of Engineering
+                                                        "I spearheaded my organizations’ first outsourcing endeavor. Internally this was met with mixed emotions, but Precision Cutting Technologies quickly rose to the top in Project Management / Coordination, quality of work and delivery time. Before I was asked not to outsource parts, now I’m asked for Precision Cutting Technologies parts by name!”  – Production Engineer - Commercial Appliance OE
                                                     </p>
                                                     
                                                 </div>
