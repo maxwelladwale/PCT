@@ -116,8 +116,7 @@
 						</div> -->
 						<div class="mobile_socials_wrap">
 							<ul>
-								<li><a href="https://www.facebook.com/SMKTRICITIES/"><i class="xcon-facebook"></i></a></li>
-								<li><a href="https://www.linkedin.com/company/smk-tri-cities/about/"><i class="xcon-linkedin"></i></a></li>
+								<li><a href="https://www.facebook.com/Precision-Cutting-Technologies-1017001788322642/"><i class="xcon-facebook"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -128,7 +127,7 @@
 					<div class="inner_wrap">
 						<div class="logo_wrap">
 							<a href="<?php get_template_directory_uri();?>">
-								<img class="mobi-logo" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/smk-wht-logo.png" alt="" />
+								<img class="mobi-logo" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/logo.png" alt="" />
 							</a>
 						</div>
 						<div class="trigger_wrap">

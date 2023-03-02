@@ -242,9 +242,6 @@
                         </div>
                     </li>
                     
-                </ul>
-
-                <ul class="glax_tm_miniboxes">
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
@@ -284,10 +281,10 @@
                             </div>
                         </div>
                     </li>
-                </ul>
-                <ul class="glax_tm_miniboxes">
+
                     <li id="emptycard"></li>
-                <li>
+                    
+                    <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
                                 <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/design.png" alt="" />
