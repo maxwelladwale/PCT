@@ -30,9 +30,14 @@ img{
 	vertical-align:middle;
 	max-width:100%;
 }
-iframe{
-	max-width:100%;
-}
+
+/* @media only screen and (min-width: 360){
+	iframe{
+		max-width:100%;
+	}
+
+} */
+
 del {
 	text-decoration: line-through;
 }
@@ -54,7 +59,7 @@ h4 { font-size: 24px; }
 h5 { font-size: 20px; }
 h6 { font-size: 16px; }
 h1,h2,h3,h4,h5,h6{
-	font-family: "Rubik";
+	font-family: "Open Sans";
 	font-weight: 400;
 	letter-spacing: 0px;
 }
