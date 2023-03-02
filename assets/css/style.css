@@ -1766,10 +1766,12 @@ img.svg{
 .glax_tm_home_service_list ul{
 	margin: 0px 0px 0px -55px;
 	list-style-type: none;
+	display: flex;
+	flex-wrap: wrap;
 }
 .glax_tm_home_service_list ul li{
 	margin: 0px 0px 40px 0px;
-	float: left;
+	/* float: left; */
 	width: 33%;
 	padding-left: 55px;	
 }
@@ -5649,12 +5651,12 @@ iframe{
 	}
 	.glax_tm_main_contact_wrap .office_list ul{margin: 0px;}
 
+	#emptycard{display: block;}
 	.glax_tm_main_contact_wrap .office_list ul{
 		display: flex;
 		flex-direction: row;
 		gap: 25px;
 	}
-
 }
 @media (max-width: 1200px) {
 	.glax_tm_header_wrap .purchase_button{display: none;}
@@ -5773,7 +5775,7 @@ iframe{
 	.glax_tm_home_service_list ul li .inner_list:before{display: none;}
 	.glax_tm_home_service_list ul li .inner_list{padding-bottom: 33px;}
 	.glax_tm_home_service_list ul li .inner_list:after{display: none;}
-	.glax_tm_home_service_list ul li .inner_list{border-bottom: 1px solid #aaa;}
+	/* .glax_tm_home_service_list ul li .inner_list{border-bottom: 1px solid #aaa;} */
 	.glax_tm_home_service_list ul li:last-child .inner_list{border-bottom: none;}
 	.glax_tm_about_counter_wrap .glax_tm_counter_list li{width: 100%;text-align: center;}
 	#emptycard{display: none;}
@@ -5931,7 +5933,7 @@ iframe{
 
  
   .mobi-logo{
-	max-width: 50% !important;
+	max-width: 35% !important;
   }
 
   .who_we_are .list_wrap ul li{

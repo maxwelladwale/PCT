@@ -258,7 +258,7 @@ get_header();
 
         <!-- gallery items here -->
 
-        <a href="<?php echo esc_url( home_url() );?>wp-content/uploads/2023/03/ss_DSC4101.webp" data-group="1" class="galleryItem test"></a>
+        <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4101.webp" data-group="1" class="galleryItem test"></a>
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4155.webp" data-group="1" class="galleryItem test"></a>
 
