@@ -231,7 +231,7 @@
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/metal.webp" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/metal.webp" alt="" style="width: 35px; height: 35px;" />
                             </div>
                             <div class="title_holder">
                                 <h3>Welding & Fabrication</h3>
@@ -245,7 +245,7 @@
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/punching.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/punching.png" alt="" style="width: 40px; height: 40px;" />
                             </div>
                             <div class="title_holder">
                                 <h3> CNC Punching & Forming </h3>
