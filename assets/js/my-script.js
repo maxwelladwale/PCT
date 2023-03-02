@@ -1,7 +1,7 @@
 jQuery(document).ready(function($) {
     
     let pgid = my_script_vars.postID;
-    if (pgid == '22'){
+    if (pgid == '12'){
         $("#nave").attr("data-style" , "dark");
         $("#nave").attr("data-position" , "absolute"); 
     }else{

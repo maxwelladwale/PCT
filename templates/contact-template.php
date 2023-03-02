@@ -40,7 +40,7 @@ get_header();
 									<div class="image_wrap">
 										
 										<div class="image"></div>
-										<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/PCT-logo.webp" alt="" />
+										<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/370x220.jpg" alt="" />
 
 									</div>
 									<div class="definitions_wrap">
@@ -67,7 +67,7 @@ get_header();
 								</div>
 							</li>
 							<li class="mymap">
-								<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11033.306893292456!2d-119.095279!3d46.2636109!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf2a2e51bc4ee69a!2sSMK%20Tri-Cities%20Inc!5e0!3m2!1sen!2ske!4v1666006824599!5m2!1sen!2ske"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2686.5948492424245!2d-117.0931906491538!3d47.67286659128954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5361dfd6ae9d705d%3A0x444a60f37356194!2sPrecision%20Cutting%20Technologies!5e0!3m2!1sen!2ske!4v1677733202655!5m2!1sen!2ske" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							</li>
 						</ul>
 					</div>
