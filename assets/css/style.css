@@ -1754,7 +1754,7 @@ img.svg{
 /*	07) GLAX HOME SERVICE
 /*------------------------------------------------------------------*/
 #emptycard{
-	display: none;
+	display: block;
 }
 .glax_tm_home_service_list{
 	width: 100%;
