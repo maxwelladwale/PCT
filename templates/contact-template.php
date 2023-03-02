@@ -60,7 +60,7 @@ get_header();
 											</div>
 											<div class="row">
 												<label>Email:</label>
-												<span><a href="#">sales@pctmfg.com</a></span>
+												<span><a href="mailto:sales@pctmfg.com">sales@pctmfg.com</a></span>
 											</div>
 										</div>
 									</div>
