@@ -54,10 +54,10 @@ svg{
 	width: 15px;
 	height: 15px;
 }
-/* img.svg{
+img.svg{
 	width: 15px;
 	height: 15px;
-} */
+}
 .all-leader-cont{
 	display: flex;
 	flex-direction: row;
@@ -5377,7 +5377,7 @@ svg{
 }
 
 .glax_tm_main_contact_wrap .office_list ul{
-	margin: 0px 0px 0px -30px;
+	/*margin: 0px 0px 0px -30px;*/
 	list-style-type: none;
 	display: flex;
     gap: 20px;

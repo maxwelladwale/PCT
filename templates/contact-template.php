@@ -40,7 +40,7 @@ get_header();
 									<div class="image_wrap">
 										
 										<div class="image"></div>
-										<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/370x220.jpg" alt="" />
+										<img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/370x220.jpg" alt="" />
 
 									</div>
 									<div class="definitions_wrap">
