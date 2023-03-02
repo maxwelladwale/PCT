@@ -126,7 +126,7 @@
 				<div class="container">
 					<div class="inner_wrap">
 						<div class="logo_wrap">
-							<a href="<?php get_template_directory_uri();?>">
+							<a href="<?php echo site_url();?>">
 								<img class="mobi-logo" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/logo.png" alt="" />
 							</a>
 						</div>
