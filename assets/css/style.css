@@ -1753,7 +1753,9 @@ svg{
 /*------------------------------------------------------------------*/ 
 /*	07) GLAX HOME SERVICE
 /*------------------------------------------------------------------*/
-
+#emptycard{
+	display: none;
+}
 .glax_tm_home_service_list{
 	width: 100%;
 	height: auto;
@@ -1780,7 +1782,7 @@ svg{
 	padding: 24px 0px 9px 0px;
 	display: flex; 
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center; 
 }
 /* .glax_tm_home_service_list ul li .inner_list:before{
@@ -3500,7 +3502,8 @@ svg{
 }
 .glax_tm_projects_wrap .glax_tm_portfolio_list .inner .title_holder{
 	position: absolute;
-	left: 5%;
+	left: 3%;
+	right: 3%;
 	z-index: 3;
 }
 .glax_tm_projects_wrap .glax_tm_portfolio_list .inner .title_holder h3{
@@ -5695,7 +5698,8 @@ iframe{
 		flex-direction: row;
 		gap: 25px;
 	}
-	
+	#emptycard{display: block;}
+
 }
 @media (max-width: 1023px) {
 	.glax_tm_wrapper_all .lang_box{display: none;}
@@ -5723,8 +5727,7 @@ iframe{
 		flex-direction: column;
 		gap: 25px;
 	}
-
-	
+	#emptycard{display: none;}
 }
 
 
@@ -5757,6 +5760,7 @@ iframe{
 	.glax_tm_about_counter_wrap{margin-bottom: 75px;}
 	.glax_tm_about_team_wrap ul{margin: 0px;}
 	.glax_tm_about_team_wrap ul li{width: 100%;padding-left: 0px;}
+	#emptycard{display: none;}
 }
 @media (max-width: 480px) {
 	.glax_tm_mobile_bar_wrap .mobile_topbar_wrap .inner_wrap{display: block;}
@@ -5772,6 +5776,7 @@ iframe{
 	.glax_tm_home_service_list ul li .inner_list{border-bottom: 1px solid #aaa;}
 	.glax_tm_home_service_list ul li:last-child .inner_list{border-bottom: none;}
 	.glax_tm_about_counter_wrap .glax_tm_counter_list li{width: 100%;text-align: center;}
+	#emptycard{display: none;}
 	.glax_tm_main_contact_wrap .office_list ul li .inner{
 		display: flex;
 		flex-direction: column;

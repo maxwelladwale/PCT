@@ -286,7 +286,7 @@
                     </li>
                 </ul>
                 <ul class="glax_tm_miniboxes">
-                    <li></li>
+                    <li id="emptycard"></li>
                 <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
