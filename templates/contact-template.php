@@ -12,9 +12,9 @@ get_header();
 <div class="glax_tm_section">
 			<div class="glax_tm_main_title_holder">
 				<div class="container">
-					<!-- <div class="title_holder">
+					<div class="title_holder">
 						<h3>Contact Us</h3>
-					</div> -->
+					</div>
 					<div class="builify_tm_breadcrumbs">
 						<ul>
 							<li>Home</li>
@@ -38,9 +38,9 @@ get_header();
 							<li>
 								<div class="inner">
 									<div class="image_wrap">
-										<img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/370x220.jpg" alt="" />
+										
 										<div class="image"></div>
-										<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/1.webp" alt="" />
+										<img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/contact/PCT-logo.webp" alt="" />
 
 									</div>
 									<div class="definitions_wrap">
@@ -67,7 +67,7 @@ get_header();
 								</div>
 							</li>
 							<li class="mymap">
-								<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11033.306893292456!2d-119.095279!3d46.2636109!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf2a2e51bc4ee69a!2sSMK%20Tri-Cities%20Inc!5e0!3m2!1sen!2ske!4v1666006824599!5m2!1sen!2ske" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+								<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11033.306893292456!2d-119.095279!3d46.2636109!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf2a2e51bc4ee69a!2sSMK%20Tri-Cities%20Inc!5e0!3m2!1sen!2ske!4v1666006824599!5m2!1sen!2ske"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							</li>
 						</ul>
 					</div>
