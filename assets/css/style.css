@@ -5370,8 +5370,6 @@ img.svg{
 
 	}
 	.glax_tm_main_contact_wrap .office_list ul li .inner{
-		display: flex;
-		flex-direction: row;
 		width: 100%;
 		height: auto;
 		clear: both;
@@ -5381,8 +5379,10 @@ img.svg{
 }
 
 .glax_tm_main_contact_wrap .office_list ul{
-	margin: 0px 0px 0px -30px;
+	/*margin: 0px 0px 0px -30px;*/
 	list-style-type: none;
+	display: flex;
+    gap: 20px;
 }
 
 /* .glax_tm_main_contact_wrap .office_list ul li{
@@ -5392,10 +5392,7 @@ img.svg{
 	padding-left: 30px;
 } */
 
-.glax_tm_main_contact_wrap .office_list ul{
-	display: flex;
-	gap: 25px;
-}
+
 .glax_tm_main_contact_wrap .office_list ul li:nth-child(1){
 	width: 33.333333%;
 }
@@ -5408,7 +5405,7 @@ img.svg{
 
 iframe{
 	width: 100%;
-	height: 510px;
+	height: 548px;
 }
 
 @media screen and (min-width: 360px) and (max-width: 479px) {
@@ -5418,7 +5415,6 @@ iframe{
 	}
 	.inner{
 		width: 22rem !important;
-		border: 4px solid teal;
 	}
 	iframe{
 		width: 100%;
@@ -5455,7 +5451,7 @@ iframe{
 	background-repeat: no-repeat;
 	background-position: center;
 }
-.glax_tm_main_contact_wrap .office_list ul li:nth-child(1) .image_wrap .image{background-image: url(..//img/contact/1.webp);}
+.glax_tm_main_contact_wrap .office_list ul li:nth-child(1) .image_wrap .image{background-image: url(..//img/contact/PCT-logo.webp);}
 .glax_tm_main_contact_wrap .office_list ul li:nth-child(2) .image_wrap .image{background-image: url(..//img/contact/2.jpg);}
 .glax_tm_main_contact_wrap .office_list ul li:nth-child(3) .image_wrap .image{background-image: url(..//img/contact/3.jpg);}
 .glax_tm_main_contact_wrap .office_list ul li .definitions_wrap{
@@ -5650,8 +5646,17 @@ iframe{
 	.glax_tm_about_counter_wrap .inner_counter .inner_rightbox{padding: 67px 7% 60px 7%;}
 	.glax_tm_about_team_wrap ul li{width: 33.3333%;}
 	.glax_tm_main_contact_wrap .office_list ul li{width: 100%;padding-left: 0px;}
+	.glax_tm_main_contact_wrap .office_list ul li:nth-child(1){
+		width: 33.333333%;
+	}
 	.glax_tm_main_contact_wrap .office_list ul{margin: 0px;}
+
 	#emptycard{display: block;}
+	.glax_tm_main_contact_wrap .office_list ul{
+		display: flex;
+		flex-direction: row;
+		gap: 25px;
+	}
 }
 @media (max-width: 1200px) {
 	.glax_tm_header_wrap .purchase_button{display: none;}
@@ -5687,7 +5692,16 @@ iframe{
 	.glax_tm_about_counter_wrap .glax_tm_counter_list li{width: 50%;}
 	.glax_tm_about_counter_wrap .inner_counter .leftbox{width: 100%;min-width: 100%;padding: 0px;}
 	.glax_tm_about_team_wrap ul li{width: 50%;}
+	.glax_tm_main_contact_wrap .office_list ul li:nth-child(1){
+		width: 33.33333%;
+	}
+	.glax_tm_main_contact_wrap .office_list ul{
+		display: flex;
+		flex-direction: row;
+		gap: 25px;
+	}
 	#emptycard{display: block;}
+
 }
 @media (max-width: 1023px) {
 	.glax_tm_wrapper_all .lang_box{display: none;}
@@ -5703,8 +5717,22 @@ iframe{
 	.glax_tm_home_service_list ul li:nth-child(2n) .inner_list:after{display: none;}
 	.glax_tm_list_wrap[data-column="4"] ul.glax_list > li{width: 33.3333%;}
 	.glax_tm_list_wrap[data-column="5"] ul.glax_list > li{width: 33.3333%;}
+	.glax_tm_main_contact_wrap .office_list ul li{
+		width: 100%;
+	}
+	.glax_tm_main_contact_wrap .office_list ul li:nth-child(1){
+		width: 100%;
+		/* padding: 10px; */
+	}
+	.glax_tm_main_contact_wrap .office_list ul{
+		display: flex;
+		flex-direction: column;
+		gap: 25px;
+	}
 	#emptycard{display: none;}
 }
+
+
 @media (max-width: 768px) {
 	.glax_tm_introduce_wrap .inner_wrap .main_info_wrap{max-width: 100%;padding-right: 0px;}
 	.glax_tm_introduce_wrap .inner_wrap{display: block;}
@@ -5754,9 +5782,11 @@ iframe{
 	.glax_tm_main_contact_wrap .office_list ul li .inner{
 		display: flex;
 		flex-direction: column;
+		width: 100% !important;
 	}
-	 
-
+	.glax_tm_main_contact_wrap .office_list ul li:nth-child(1){
+		width: 100%;
+	}
 }
 
 @media (min-width: 375px){
