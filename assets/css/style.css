@@ -1010,7 +1010,6 @@ img.svg{
     text-transform: uppercase;
     display: block;
     position: relative; 
-	font-family: "Montserrat";
 }
 .glax_tm_mobile_bar_wrap .menu_list_wrap > ul > li .sub_menu{
 	display: none;
@@ -3187,8 +3186,6 @@ img.svg{
     font-weight: 700;
     white-space: nowrap;
     text-overflow: ellipsis;
-	font-family: "Montserrat";
-	
     -webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
 	    -ms-transition: all .3s ease;
