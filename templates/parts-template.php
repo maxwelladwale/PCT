@@ -64,7 +64,7 @@ get_header();
 
                         <li class="architecture" >
 
-                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC4121.jpg" data-group="1" class="galleryItem test">
+                            <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4243.webp" data-group="1" class="galleryItem test">
 
                                 <div class="inner" id="dynamic-gallery-demo">
 
@@ -72,7 +72,7 @@ get_header();
 
                                         <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/img/portfolio/750x500.jpg" alt="" />
 
-                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/DSC4121.jpg"></div>
+                                        <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4243.webp"></div>
 
                                         <div class="overlay_color"></div>
 
@@ -258,7 +258,7 @@ get_header();
 
         <!-- gallery items here -->
 
-        <a href="<?php echo esc_url( home_url() );?>wp-content/uploads/2023/03/_DSC4097.jpg" data-group="1" class="galleryItem test"></a>
+        <a href="<?php echo esc_url( home_url() );?>wp-content/uploads/2023/03/ss_DSC4101.webp" data-group="1" class="galleryItem test"></a>
 
         <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/03/ss_DSC4155.webp" data-group="1" class="galleryItem test"></a>
 
