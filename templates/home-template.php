@@ -414,7 +414,7 @@
                                             <div class="test-main" >
                                                 <div class="title_holder-test">
                                                     <p style="color:white";>
-                                                        "I spearheaded my organizations’ first outsourcing endeavor. Internally this was met with mixed emotions, but Precision Cutting Technologies quickly rose to the top in Project Management / Coordination, quality of work and delivery time. Before I was asked not to outsource parts, now I’m asked for Precision Cutting Technologies parts by name!”  – Production Engineer - Commercial Appliance OE
+                                                        "I spearheaded my organizations’ first outsourcing endeavor. Internally this was met with mixed emotions, but Precision Cutting Technologies quickly rose to the top in Project Management / Coordination, quality of work and delivery time. Before I was asked not to outsource parts, now I’m asked for Precision Cutting Technologies parts by name!”  – Production Engineer - Commercial Appliance OEM
                                                     </p>
                                                     
                                                 </div>
