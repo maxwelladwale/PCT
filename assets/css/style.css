@@ -3253,6 +3253,8 @@ img.svg{
 .builify_tm_breadcrumbs ul{
 	margin: 0px;
 	list-style-type: none;
+	display: flex;
+	align-items: center;
 }
 .builify_tm_breadcrumbs ul li{
 	margin: 0px;
