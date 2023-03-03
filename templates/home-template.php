@@ -14,7 +14,7 @@
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4298.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4135.webp"></div>
 
                         <div class="swiper_content">
 
@@ -33,37 +33,49 @@
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/_DSC4450.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4237.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="https://smktricities.com/wp-content/uploads/2022/10/DSC0601.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4359.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4135.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4215.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4215.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4286.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4237.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4298.webp"></div>
 
                     </div>
 
                     <div class="image_wrap swiper-slide">
 
-                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/DSC4300.webp"></div>
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4300.webp"></div>
+
+                    </div>
+
+                    <div class="image_wrap swiper-slide">
+
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider_DSC4252.webp"></div>
+
+                    </div>
+
+                    <div class="image_wrap swiper-slide">
+
+                        <div class="bg_img" data-img-url="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/slider/slider__DSC4450.webp"></div>
 
                     </div>
 
