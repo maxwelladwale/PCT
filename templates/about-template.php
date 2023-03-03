@@ -74,18 +74,18 @@
                         <div class="themesflat-row separator drank clearfix">
                             <div class="span_1_of_6 separator-solid">
                                 <div class="flat-content-wrap pd26 h-one">
-                                    <div class="title">1998</div>
-                                    <p style="padding-bottom: 32px;">PCT founded in Spokane, Washington.</p>
+                                    <div class="title">1998 </div>
+                                    <p style="padding-bottom: 32px;">PCT founded in Spokane, Washington</p> 
                                 </div>
                                 <div class="flat-content-wrap pd26 h-two">
-                                    <div class="title">2018</div>
+                                    <div class="title">2006</div>
                                     <p>PCT purchased L&M Precision Fabrication, adding in-house powder coating and hardware insertion services </p>
                                 </div>
                             </div>
                             <div class="span_1_of_6 separator-solid">
                                 <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35" style="height:0px"></div>
                                 <div class="flat-content-wrap pd26 h-three">
-                                    <div class="title">2006</div>
+                                    <div class="title">2018</div>
                                     <p>PCT grew in size and scope by moving into a larger facility to add laser cutting, welding, CNC machining, and forming</p>
                                 </div>
                                 <div class="flat-content-wrap pd26 h-four">
@@ -96,7 +96,7 @@
                         </div>
                     </div>
 
-                    <div class="glax_tm_section">
+                    <div class="glax_tm_section"> 
                         <div class="">
 
                             <div class="leader-det">
@@ -133,7 +133,7 @@
                                                 </svg>
                                                 <span>jporter@smktricities.com</span>
                                             </a>
-                                        </div>
+                                        </div> 
 
                                     </div>
                                 </div>
