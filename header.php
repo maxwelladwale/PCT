@@ -248,7 +248,7 @@
 							<div class="definitions_wrap">
 								<h3>Washington Headquarters</h3>
 								<p>1611 N Molter Rd Ste. 202, Liberty Lake, WA 99019</p>
-								<p>Phone: (509) 922-875</p>
+								<p>Phone: (509) 922-8755</p>
 								<p><span>Email:</span><a href="mailto:sales@pctmfg.com">sales@pctmfg.com</a></p>
 							</div>
 						</div>
@@ -269,7 +269,7 @@
 								<img src="img/estimate/call.png" alt="" />
 							</div>
 							<h3>Call Us</h3>
-							<p>(509) 922-875</p>
+							<p>(509) 922-8755</p>
 						</div>
 					</div>
 					<div class="drop_list clock">
@@ -280,7 +280,7 @@
 								<ul>
 									<li>
 										<span class="left">Monday-Friday:</span>
-										<span class="right">7am to 3.30pm</span>
+										<span class="right">7am to 3:00pm</span>
 									</li>
 									
 								</ul>
