@@ -103,35 +103,32 @@
                                 <h3 class="title" style="text-align: center;">Leadership</h3>
                                 <div class="all-leader-cont">
                                     <div class="single-leader-cont">
-                                        <img src="https://smk.jitudevops.com/wp-content/uploads/2022/11/porter.webp" alt="" class="l-thumbnail">
+                                        
+                                        <img src="<?php echo get_template_directory_uri();?>/assets/img/about/LES-JANEZ.jpg" alt="" class="l-thumbnail">
                                         <div class="main_definitions" style="display: flex; flex-direction: column;">
-                                            <h3>Jason Porter</h3>
-                                            <h4>Director of Estimating</h4>
-                                            <p style="margin-bottom: 1rem;">Mr. Porter joined SMK in 2018 and brings over 28 years of experience in industrial processing, including estimating for all levels of industrial projects.
-                                                Before becoming Director of Estimating, Mr. Porter served as a Field Manager and Project Manager on multiple $50MM+ jobs. <br> <br>
-                                                Prior to SMK, Mr. Porter was a Field Supervisor for Apollo Mechanical. Mr. Porter is a subject matter expert for any industrial equipment project.</p>
+                                            <h3>LES JANZEN</h3>
+                                            <h4> General Manager</h4>
+                                            <p style="margin-bottom: 1rem;">Mr. Janzen joined PCT in 2017 and brings 25 years of operations and lean manufacturing experience.  Prior to joining PCT, Mr. Janzen was the Operations Manager for AMX by Harman, an audio and video distribution equipment manufacturer.  He also worked for Sunshine Minting Inc, a leading supplier of precious metal and base metal mint products, supplying silver and gold blanks to the US Mint and private mints around the world.Mr. Janzen is an experienced professional in financial accounting, budgeting, departmental reconciliation, program management, quality engineering, and lean manufacturing.  He earned his BA from Eastern Washington University.</p>
                                             <a href="mailto:jporter@smktricities.com">
                                                 <svg style="width: 32px; height: 32px; color: #23387E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                                     <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
                                                 </svg>
-                                                <span>jporter@smktricities.com</span>
+                                                <span>ljanzen@pctmfg.com</span>
                                             </a>
                                         </div>
 
                                     </div>
                                     <div class="single-leader-cont">
-                                        <img src="https://smk.jitudevops.com/wp-content/uploads/2022/11/porter.webp" alt="" class="l-thumbnail">
+                                        <img src="<?php echo get_template_directory_uri();?>/assets/img/about/BRIAN-BOONE.jpg" alt="" class="l-thumbnail">
                                         <div class="main_definitions" style="display: flex; flex-direction: column;">
-                                            <h3>Jason Porter</h3>
-                                            <h4>Director of Estimating</h4>
-                                            <p style="margin-bottom: 1rem;">Mr. Porter joined SMK in 2018 and brings over 28 years of experience in industrial processing, including estimating for all levels of industrial projects.
-                                                Before becoming Director of Estimating, Mr. Porter served as a Field Manager and Project Manager on multiple $50MM+ jobs. <br> <br>
-                                                Prior to SMK, Mr. Porter was a Field Supervisor for Apollo Mechanical. Mr. Porter is a subject matter expert for any industrial equipment project.</p>
+                                            <h3>BRIAN BOONE</h3>
+                                            <h4>Sales Leader</h4>
+                                            <p style="margin-bottom: 1rem;">Mr. Boone joined PCT in 2019 and has over 30 years of industrial, manufacturing, and distribution sales experience with a proven track record. Prior to joining PCT, Mr. Boone was the Sales Manager for Screentek, a leader in manufacturing custom, high-performance printed graphics. He also worked as a Sales Manager for Laird Plastics, the largest plastics distributor in the US.In addition to his sales, marketing, and management experience, Mr. Boone holds an associate degree in Sales and Marketing from Santa Fe Community College.see the layout as indicated by Lance in the screenshot attached </p>
                                             <a href="mailto:jporter@smktricities.com">
                                                 <svg style="width: 32px; height: 32px; color: #23387E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                                     <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
                                                 </svg>
-                                                <span>jporter@smktricities.com</span>
+                                                <span>bboone@pctmfg.com</span>
                                             </a>
                                         </div> 
 
