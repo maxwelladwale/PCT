@@ -20,7 +20,7 @@
 
                             <div class="texts_wrap">
 
-                                <h3>SMK</h3>
+                                <h3>PCT</h3>
 
                                 
 
@@ -93,7 +93,7 @@
 
                     <div class="texts_wrap" >
 
-                        <h3 style="display:none;">SMK</h3>
+                        <h3 style="display:none;">PCT</h3>
 
                         <p style="display:none;">Industrial equipment services and fabrication from line design to end items</p>
 
