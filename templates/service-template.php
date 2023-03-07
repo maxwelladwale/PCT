@@ -113,7 +113,7 @@ get_header();
                                                 <h3>CNC Punching & Forming</h3>
 
                                                 <p>
-                                                    We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling
+                                                We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling
                                                 </p>
                                             </div>
 
@@ -187,7 +187,7 @@ get_header();
 
                                                 <h3>Waterjet Cutting</h3>
 
-                                                <p>Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification</p>
+                                                <p> Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification</p>
 
                                             </div>
 
@@ -259,9 +259,9 @@ get_header();
 
                                             <div class="title_holder">
 
-                                                <h3>Powder Coat & Metal Finishing</h3>
+                                                <h3>Powder Coat</h3>
 
-                                                <p>Our powder coating and metal furnishing professionals provide a high-quality finish for a more polished and durable product </p>
+                                                <p>Our powder coating professionals provide a high-quality finish for a more polished and durable product </p>
 
                                             </div>
 
@@ -287,7 +287,9 @@ get_header();
 
                                         <div class="list_image_wrap">
 
-                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4450.jpg"></div>
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4425.jpg"></div>
+
+
 
                                         </div>
 
@@ -295,9 +297,9 @@ get_header();
 
                                             <div class="title_holder">
 
-                                                <h3>Design & Engineering </h3>
+                                                <h3>Metal Finishing</h3>
 
-                                                <p>Our skilled mechanical engineers employ CAD technology to design end items and CNC machined parts, providing custom solutions to our customers</p>
+                                                <p>We use metal graining to remove burrs and sharp edges, creating a uniform finish for parts up to 36 inches wide </p>
 
                                             </div>
 
@@ -307,7 +309,43 @@ get_header();
 
                                             <div class="read_more_in">
 
-                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4450.jpg" data-group="7" class="galleryItem 707">See Gallery</a>
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4425.jpg" data-group="8" class="galleryItem 808">See Gallery</a>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </li>
+
+                                <li>
+
+                                    <div class="inner servicev">
+
+                                        <div class="list_image_wrap">
+
+                                            <div class="image" data-img-url="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4359.jpg"></div>
+
+                                        </div>
+
+                                        <div class="main_infos">
+
+                                            <div class="title_holder">
+
+                                                <h3>Hardware & Assembly </h3>
+
+                                                <p>We install pems, studs, latches, doors, and hinges to provide a custom turnkey assembly</p>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="glax_tm_shape_read_more_wrap">
+
+                                            <div class="read_more_in">
+
+                                                <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4359.jpg" data-group="7" class="galleryItem 707">See Gallery</a>
 
                                             </div>
 
@@ -443,7 +481,7 @@ get_header();
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4281.jpg" data-group="5" class="galleryItem 505"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4411.jpg" data-group="5" class="galleryItem 505"></a>
 
-    <!-- Powder Coat & Metal Finishing  -->
+    <!-- Powder Coat  -->
 
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4148.jpg" data-group="6" class="galleryItem 606"></a>
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4153.jpg" data-group="6" class="galleryItem 606"></a>
@@ -454,9 +492,18 @@ get_header();
     <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4464.jpg" data-group="6" class="galleryItem 606"></a>
 
 
-    <!-- Design & Engineering -->
+    <!-- Metal Finishing -->
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4155.jpg" data-group="8" class="galleryItem 808"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4170.jpg" data-group="8" class="galleryItem 808"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4365.jpg" data-group="8" class="galleryItem 808"></a>
+    
 
-    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4141.jpg" data-group="7" class="galleryItem 707"></a>
+    <!-- Hardware & assembly -->
+
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4099.jpg" data-group="7" class="galleryItem 707"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4250.jpg" data-group="7" class="galleryItem 707"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4182.jpg" data-group="7" class="galleryItem 707"></a>
+    <a href="<?php echo esc_url( home_url() );?>/wp-content/uploads/2023/02/DSC4375.jpg" data-group="7" class="galleryItem 707"></a>
 
 
     <!-- /SERVICES -->
