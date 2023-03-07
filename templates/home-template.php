@@ -236,20 +236,20 @@
                                 <h3>Laser Cutting</h3>
                             </div>
                             <div class="description">
-                                <p>Our CNC laser cutting machines provide ultra-high precision and accuracy within +/- 0.005“ to manufacture top quality parts.</p>
+                                <p>Our CNC laser cutting machines provide ultra-high precision and accuracy within +/- 0.005“ to manufacture top quality parts</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/metal.webp" alt="" style="width: 35px; height: 35px;" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/powder.png" alt="" />
                             </div>
                             <div class="title_holder">
                                 <h3>Welding & Fabrication</h3>
                             </div>
                             <div class="description">
-                                <p>We use MIG & TIG welding for accurate and efficient production of light gauge sheet metal shapes for commercial and industrial uses.</p>
+                                <p>We use MIG & TIG welding for accurate and efficient production of light gauge sheet metal shapes for commercial and industrial uses</p>
                             </div>
                         </div>
                     </li>
@@ -257,13 +257,13 @@
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/punching.png" alt="" style="width: 40px; height: 40px;" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/cnc-punching.png" alt="" style="width: 50px; height: 40px;" />
                             </div>
                             <div class="title_holder">
                                 <h3> CNC Punching & Forming </h3>
                             </div>
                             <div class="description">
-                                <p>We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling.</p>
+                                <p>We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling</p>
                             </div>
                         </div>
                     </li>
@@ -276,20 +276,20 @@
                                 <h3>Waterjet Cutting</h3>
                             </div>
                             <div class="description">
-                                <p>Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification.</p>
+                                <p>Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification</p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/powder.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/powder-coat.png" alt="" />
                             </div>
                             <div class="title_holder">
-                                <h3>Powder Coat & Metal Finishing</h3>
+                                <h3>Powder Coat</h3>
                             </div>
                             <div class="description">
-                                <p>Our powder coating and metal furnishing professionals provide a high-quality finish for a more polished and durable product.</p>
+                                <p>Our powder coating and metal furnishing professionals provide a high-quality finish for a more polished and durable product</p>
                             </div>
                         </div>
                     </li>
@@ -299,16 +299,30 @@
                     <li>
                         <div class="inner_list glax_tm_minibox">
                             <div class="icon_wrap">
-                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/design.png" alt="" />
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/metalfinishing.png" alt="" style="width: 40px; height: 40px;"/>
                             </div>
                             <div class="title_holder">
-                                <h3>Design & Engineering</h3>
+                                <h3>Metal Finishing</h3>
                             </div>
                             <div class="description">
-                                <p>Our skilled mechanical engineers employ CAD technology to design end items and CNC machined parts, providing custom solutions to our customers.</p>
+                                <p>We use metal graining to remove burrs and sharp edges, creating a uniform finish for parts up to 36 inches wide</p>
                             </div>
                         </div>
                     </li>
+                    <li>
+                        <div class="inner_list glax_tm_minibox">
+                            <div class="icon_wrap">
+                                <img class="svg" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/icons/punching.png" alt="" style="width: 40px; height: 40px;"/>
+                            </div>
+                            <div class="title_holder">
+                                <h3>Hardware & Assembly</h3>
+                            </div>
+                            <div class="description">
+                                <p>We install pems, studs, latches, doors, and hinges to provide a custom turnkey assembly</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="emptycard"></li>
                 </ul>
 
             </div>
@@ -377,7 +391,7 @@
                                     <h3>Customer Quotes</h3>
                                 </div>
                                 <div class="description">
-                                    <p>Companies around the nation rely on PCT for their industrial equipment design, fabrication, and installation needs</p>
+                                    <p>Companies around the nation rely on PCT for their advanced machining and fabrication needs</p>
                                 </div>
                             </div>
                         </div>

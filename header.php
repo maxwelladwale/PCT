@@ -43,7 +43,7 @@
 					<div class="share_wrap">
 						<ul>
 							<li><a href="https://www.facebook.com/Precision-Cutting-Technologies-1017001788322642/"><i class="xcon-facebook"></i></a></li>
-							
+							<li><a href="https://www.linkedin.com/company/precision-cutting-technologies/"><i class="xcon-linkedin"></i></a></li>
 						</ul>
 					</div>
 					<div class="language">
@@ -117,6 +117,7 @@
 						<div class="mobile_socials_wrap">
 							<ul>
 								<li><a href="https://www.facebook.com/Precision-Cutting-Technologies-1017001788322642/"><i class="xcon-facebook"></i></a></li>
+								<li><a href="https://www.linkedin.com/company/precision-cutting-technologies/"><i class="xcon-linkedin"></i></a></li>
 							</ul>
 						</div>
 					</div>
