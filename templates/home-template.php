@@ -416,7 +416,7 @@
                                             <div class="test-main" >
                                                 <div class="title_holder-test">
                                                     <p style="color:white";>
-                                                    "Precision Cutting Technologies’ quick response time has helped us with several development projects allowing a faster transition to production." – R&D Technical Specialist- Electronic Materials Provider
+                                                    "Precision Cutting Technologies’ quick response time has helped us with several development projects allowing a faster transition to production." – R&D Technical Specialist - Electronic Materials Provider
                                                     </p>
                                                     
                                                 </div>
