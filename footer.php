@@ -80,7 +80,7 @@
 
 												<p>
 
-												Headquartered in eastern Washington State since 1998, we are a national leader in advanced machining and fabrication. From single item orders to a production run of several thousand, PCT is a complete manufacturing solution for parts of any construction material. We design and fabricate precision parts for any market sector and produce custom components from the design phase to delivery.
+												Headquartered in eastern Washington State since 1998, we are a national leader in advanced machining and fabrication. From single item orders to a production run of several thousand, PCT is a complete manufacturing solution for parts of any construction material. We fabricate precision parts for any market sector and produce custom components from the design phase to delivery
 
 												</p>
 

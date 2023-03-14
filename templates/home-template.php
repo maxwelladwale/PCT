@@ -148,7 +148,7 @@
 
                             <p class="text">
                             Headquartered in eastern Washington State since 1998, we are a national leader in advanced machining and fabrication. From single item orders to a production run of several thousand, PCT is a complete manufacturing solution for parts of any construction material.
-                             We design and fabricate precision parts for any market sector and produce custom components from the design phase to delivery
+                             We fabricate precision parts for any market sector and produce custom components from the design phase to delivery
                             </p>
 
                         </div>
@@ -223,7 +223,7 @@
                                 <h3>CNC Machining</h3>
                             </div>
                             <div class="description">
-                                <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.003”</p>
+                                <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.001</p>
                             </div>
                         </div>
                     </li>
@@ -289,7 +289,7 @@
                                 <h3>Powder Coat</h3>
                             </div>
                             <div class="description">
-                                <p>Our powder coating and metal furnishing professionals provide a high-quality finish for a more polished and durable product</p>
+                                <p>Our powder coating professionals provide a high-quality finish for a more polished and durable product</p>
                             </div>
                         </div>
                     </li>
@@ -305,7 +305,7 @@
                                 <h3>Metal Finishing</h3>
                             </div>
                             <div class="description">
-                                <p>We use metal graining to remove burrs and sharp edges, creating a uniform finish for parts up to 36 inches wide</p>
+                                <p>We offer metal graining to remove burrs and sharp edges, creating a uniform finish for parts up to 36” wide. We also provide grinding, tumbling, and sand blasting</p>
                             </div>
                         </div>
                     </li>
@@ -343,7 +343,7 @@
                         </div>
                         <div class="text">
                             <p>
-                            We are a national leader in parts manufacturing. Our team designs and fabricates precision parts for any market sector and produces custom components from the design phase to delivery. We manufacture the highest quality end items made of any industrial material.
+                            We are a national leader in parts manufacturing. Our team fabricates precision parts for any market sector and produces custom components from customer design to delivery. We manufacture the highest quality end items made of any industrial material.
                             </p>
                         </div>
                         

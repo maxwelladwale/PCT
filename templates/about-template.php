@@ -79,14 +79,14 @@
                                 </div>
                                 <div class="flat-content-wrap pd26 h-two">
                                     <div class="title">2006</div>
-                                    <p>PCT purchased L&M Precision Fabrication, adding in-house powder coating and hardware insertion services </p>
+                                    <p>PCT grew in size and scope by moving into a larger facility to add laser cutting, welding, CNC machining, and forming </p>
                                 </div>
                             </div>
                             <div class="span_1_of_6 separator-solid">
                                 <div class="themesflat-spacer clearfix" data-desktop="0" data-mobile="0" data-smobile="35" style="height:0px"></div>
                                 <div class="flat-content-wrap pd26 h-three">
                                     <div class="title">2018</div>
-                                    <p>PCT grew in size and scope by moving into a larger facility to add laser cutting, welding, CNC machining, and forming</p>
+                                    <p>PCT purchased L&M Precision Fabrication, adding in-house powder coating and hardware insertion services</p>
                                 </div>
                                 <div class="flat-content-wrap pd26 h-four">
                                     <div class="title">2022</div>
