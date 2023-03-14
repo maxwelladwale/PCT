@@ -53,7 +53,7 @@ get_header();
                         <div class="glax_tm_service_title_holder">
 
                             <p>
-                                Our craftsmen manufacture the highest quality end items made of any industrial material from design to product delivery
+                                Our craftsmen manufacture the highest quality end items made of any industrial material from the design phase to product delivery
                             </p>
 
                         </div>
@@ -76,7 +76,7 @@ get_header();
 
                                                 <h3>CNC Machining</h3>
 
-                                                <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.003”</p>
+                                                <p>Our advanced machine tools provide complex cutting of virtually any material with an accuracy within +/-.001</p>
 
                                             </div>
 
@@ -112,9 +112,8 @@ get_header();
 
                                                 <h3>CNC Punching & Forming</h3>
 
-                                                <p>
-                                                We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling
-                                                </p>
+                                                <p>We leverage a fully equipped fabrication shop capable of precision brake forming, punching, and rolling</p>
+
                                             </div>
 
                                         </div>
@@ -149,9 +148,7 @@ get_header();
 
                                                 <h3>Laser Cutting</h3>
 
-                                                <p>
-                                                    Our CNC laser cutting machines provide ultra-high precision and accuracy within +/- 0.005“ to manufacture top quality parts
-                                                </p>
+                                                <p>Our CNC laser cutting machines provide ultra-high precision and accuracy within +/- 0.005“ to manufacture top quality parts </p>
 
                                             </div>
 
@@ -187,7 +184,7 @@ get_header();
 
                                                 <h3>Waterjet Cutting</h3>
 
-                                                <p> Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification</p>
+                                                <p>Our Flow Dynamic waterjets apply state-of-the-art technology to precisely cut parts to your exact specification</p>
 
                                             </div>
 
@@ -261,7 +258,7 @@ get_header();
 
                                                 <h3>Powder Coat</h3>
 
-                                                <p>Our powder coating professionals provide a high-quality finish for a more polished and durable product </p>
+                                                <p>Our powder coating professionals provide a high-quality finish for a more polished and durable product</p>
 
                                             </div>
 
@@ -299,7 +296,7 @@ get_header();
 
                                                 <h3>Metal Finishing</h3>
 
-                                                <p>We use metal graining to remove burrs and sharp edges, creating a uniform finish for parts up to 36 inches wide </p>
+                                                <p>We offer metal graining to remove burrs and sharp edges, creating a uniform finish for parts up to 36” wide. We also provide grinding, tumbling, and sand blasting</p>
 
                                             </div>
 
@@ -335,7 +332,7 @@ get_header();
 
                                                 <h3>Hardware & Assembly </h3>
 
-                                                <p>We install pems, studs, latches, doors, and hinges to provide a custom turnkey assembly</p>
+                                                <p>We install pems, studs, latches, doors, and hinges to provide a custom turnkey assembly </p>
 
                                             </div>
 
