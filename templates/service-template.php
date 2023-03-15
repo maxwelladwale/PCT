@@ -52,8 +52,8 @@ get_header();
 
                         <div class="glax_tm_service_title_holder">
 
-                            <p>
-                                Our craftsmen manufacture the highest quality end items made of any industrial material from the design phase to product delivery
+                            <p style="color: black;">
+                            Our craftsmen manufacture the highest quality end items made of any industrial material from customer design to product delivery
                             </p>
 
                         </div>
