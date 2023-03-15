@@ -36,7 +36,7 @@
                                             <div class="description">
                                                 <p>A complete manufacturing solution for parts of any construction material </p>
                                                 <p>Headquartered in eastern Washington State since 1998, we are a national leader in advanced machining and fabrication </p>
-                                                <p>From single item orders to a production run of several thousand, we design and fabricate precision parts for any market sector and produce custom components from the design phase to delivery </p>
+                                                <p>From single item orders to a production run of several thousand, we fabricate precision parts for any market sector and produce custom components from customer design to product delivery </p>
                                             </div>
                                         </div>
                                         <div class="rightbox">
@@ -50,7 +50,7 @@
 
                                                         <li class="">
                                                             <h5>Complete Manufacturing Solution </h5>
-                                                            <p>Our craftsmen manufacture the highest quality end items made of any industrial material from design to product delivery </p>
+                                                            <p>Our craftsmen manufacture the highest quality end items made of any industrial material from customer design to product delivery </p>
                                                         </li>
 
                                                         <li class="">
@@ -123,7 +123,7 @@
                                         <div class="main_definitions" style="display: flex; flex-direction: column;">
                                             <h3>BRIAN BOONE</h3>
                                             <h4>Sales Leader</h4>
-                                            <p style="margin-bottom: 1rem;">Mr. Boone joined PCT in 2019 and has over 30 years of industrial, manufacturing, and distribution sales experience with a proven track record. Prior to joining PCT, Mr. Boone was the Sales Manager for Screentek, a leader in manufacturing custom, high-performance printed graphics. He also worked as a Sales Manager for Laird Plastics, the largest plastics distributor in the US.In addition to his sales, marketing, and management experience, Mr. Boone holds an associate degree in Sales and Marketing from Santa Fe Community College.see the layout as indicated by Lance in the screenshot attached </p>
+                                            <p style="margin-bottom: 1rem;">Mr. Boone joined PCT in 2019 and has over 30 years of industrial, manufacturing, and distribution sales experience with a proven track record. Prior to joining PCT, Mr. Boone was the Sales Manager for Screentek, a leader in manufacturing custom, high-performance printed graphics. He also worked as a Sales Manager for Laird Plastics, the largest plastics distributor in the US.In addition to his sales, marketing, and management experience, Mr. Boone holds an associate degree in Sales and Marketing from Santa Fe Community College. </p>
                                             <a href="mailto:jporter@smktricities.com">
                                                 <svg style="width: 32px; height: 32px; color: #23387E" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
                                                     <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />

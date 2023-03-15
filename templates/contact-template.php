@@ -76,7 +76,7 @@ get_header();
 					
 					<div class="contact_text">
 						<p>
-						We are a national leader in parts manufacturing. Our team designs and fabricates precision parts for any market sector and produces custom components from the design phase to delivery. We manufacture the highest quality end items made of any industrial material.
+						We are a national leader in parts manufacturing. Our team fabricates precision parts for any market sector and produces custom components from customer design to product delivery. We manufacture the highest quality end items made of any industrial material.
 						</p>
 					</div>
 
